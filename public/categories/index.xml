@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ruchil Sharma</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Ruchil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update</title>
+      <link>/categories/update/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To-Self</title>
+      <link>/categories/to-self/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/to-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>/categories/productivity/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>/categories/reading/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/categories/education/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>/categories/career/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry Insights</title>
+      <link>/categories/industry-insights/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/industry-insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>/categories/summary/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>/categories/recommendations/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/recommendations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

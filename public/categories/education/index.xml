@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Ruchil Sharma</title>
+    <link>/categories/education/</link>
+    <description>Recent content in Education on Ruchil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Launching a Course on Venture Capital 101</title>
+      <link>/posts/a-course-on-venture-capital/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/a-course-on-venture-capital/</guid>
+      <description>&amp;ldquo;VC is a black box. It is a tightly knit community and this makes it really hard to know the inner workings of a VC fund. It is one thing to know about VC through blogs and books and another through a group of people who have been there, done that!&amp;rdquo;
+These are some of the most common remarks that I&amp;rsquo;ve come across when speaking to most folks who aspire to break into Venture capital.</description>
+    </item>
+    
+  </channel>
+</rss>
