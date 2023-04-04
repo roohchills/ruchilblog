@@ -5,39 +5,25 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-    <title>Vercel Blogpost for beginners</title>
-    <link>/posts/working-on-a-new-blogpost-template/</link>
-    <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+    <title>The Magic of Airdrops : Earn While Your Learn</title>
+    <link>/posts/the-magic-of-airdrops-earn-while-you-learn/</link>
+    <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
     
-    <guid>/posts/working-on-a-new-blogpost-template/</guid>
+    <guid>/posts/the-magic-of-airdrops-earn-while-you-learn/</guid>
     <description>
-        &lt;p&gt;I&amp;rsquo;ve been working on a new blogpost template and hence, I will post intermittently this year. I hope to get back and write more in 2023.&lt;/p&gt;
-
-    </description>
-    </item>
-    
-    <item>
-    <title>Adding a new post</title>
-    <link>/posts/adding-a-new-post/</link>
-    <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-    
-    <guid>/posts/adding-a-new-post/</guid>
-    <description>
-        &lt;p&gt;Lets see if it works&lt;/p&gt;
-
-    </description>
-    </item>
-    
-    <item>
-    <title>Working on a new blogpost template</title>
-    <link>/posts/working-on-a-new-blogpost-template-copy/</link>
-    <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-    
-    <guid>/posts/working-on-a-new-blogpost-template-copy/</guid>
-    <description>
-        &lt;p&gt;I&amp;rsquo;ve been working on a new blogpost template and hence, I will post intermittently this year. I hope to get back and write more in 2023.&lt;/p&gt;
+        &lt;p&gt;Airdrops, in my opinion, are the fastest way to educate users about your product and get user adoption. For me, the starting point was ENS. Seeing my close friends earning ~ $10k through the ENS airdrop piqued my interest into ENS and that eventually led me to buying my own ENS domain.&lt;/p&gt;
+&lt;p&gt;Simply put, an airdrop is a distribution of a crypto token or coin, usually for free, to numerous wallet addresses. But it is not as trivial as it sounds. The caveat here is that an airdrop comes with the price. For one to be eligible for receiving an airdrop, one needs to use a protocol and interact with it in a manner prescribed by the protocol. Hence, as a user, you might end up spending at least the gas price in order to be eligible for a token airdrop. As I did not own an ENS domain when ENS announced the airdrop, I was not eligible for the same.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://images.mirror-media.xyz/publication-images/Ur8NGD1r88Og_SZdobelO.png?height=926%5cu0026width=1164&#34; 
+    alt=&#34;image&#34; 
+     /&gt;&lt;/p&gt;
+&lt;p&gt;This is what I saw when I tried connecting my wallet to earn the airdrop
+This is what I saw when I tried connecting my wallet to earn the airdrop
+While I was initially hesitant spending $50 - $100 as gas fees to use a protocol, I am a lot more comfortable doing so now. If you are someone who is full time into crypto and whose primary source of income depends on understanding different crypto ecosystems, gas fees is the cost you pay to educate yourself. After buying my ENS domain, I have used several other protocols and have paid more than a $1,000 (might be insignificant for a lot of you) in gas fees to educate myself about different protocols and ecosystems while prioritising those who have a high likelihood of announcing an airdrop soon. You can find them here.&lt;/p&gt;
+&lt;p&gt;To conclude, if you are someone who is getting started with Web 3.0 and is not undergoing financial crisis, don’t let gas fee be a blocker to use a protocol and understand its nuances. The value that you derive from going deeper into the rabbit hole, ecosystem understanding, friends that you make along the way and the value of the potential airdrops far outweighs the amount that you will spend as gas fees.&lt;/p&gt;
+&lt;p&gt;On a side-note, I strongly believe that till the point L2 scaling solutions are not widely adopted, all Web 3 companies that require their employees/community members to have a deep understanding of the Web 3.0 ecosystem should set aside funds dedicated towards protocols/Dapps usage and gas fees. This can be a great differentiator and incentive to lure talented folks into your ecosystem.&lt;/p&gt;
 
     </description>
     </item>
