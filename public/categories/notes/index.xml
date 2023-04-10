@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Ruchil Sharma</title>
+    <link>/categories/notes/</link>
+    <description>Recent content in Notes on Ruchil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revamping My Blog Post Theme</title>
+      <link>/posts/revamping-my-blog-post-theme/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/revamping-my-blog-post-theme/</guid>
+      <description>I am currently working on migrating and enhancing my blog&amp;rsquo;s theme and will not be posting for sometime. I intent to start posting again next year and port all the previous posts as soon as the new theme design and migration is done. Till then, you can reach out to me on Twitter(pinned above) DM. Have a great year ahead! 🤝</description>
+    </item>
+    
+  </channel>
+</rss>

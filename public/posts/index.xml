@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revamping My Blog Post Theme</title>
+      <link>/posts/revamping-my-blog-post-theme/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/revamping-my-blog-post-theme/</guid>
+      <description>I am currently working on migrating and enhancing my blog&amp;rsquo;s theme and will not be posting for sometime. I intent to start posting again next year and port all the previous posts as soon as the new theme design and migration is done. Till then, you can reach out to me on Twitter(pinned above) DM. Have a great year ahead! 🤝</description>
+    </item>
+    
     <item>
       <title>Personal OKRs 2022</title>
       <link>/posts/personal-okrs-2022/</link>
@@ -61,16 +70,6 @@ Stating the names and description of the books that I liked and have read thus f
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/getting-your-time-back/</guid>
-      <description>A few things that I have started doing to get back my time:
-Setting an agenda for the meeting with the meeting invite. Agenda less meetings create confusion and lead to people talking about random things. 30 mins meeting by default as a calendar invite. This has helped me to close the open points quickly to free up time for important things. Putting slots on my calendar when I want to get work done without any distraction.</description>
-    </item>
-    
-    <item>
-      <title>Getting Your Time Back</title>
-      <link>/posts/revamping-my-blog-post-theme/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/revamping-my-blog-post-theme/</guid>
       <description>A few things that I have started doing to get back my time:
 Setting an agenda for the meeting with the meeting invite. Agenda less meetings create confusion and lead to people talking about random things. 30 mins meeting by default as a calendar invite. This has helped me to close the open points quickly to free up time for important things. Putting slots on my calendar when I want to get work done without any distraction.</description>
     </item>
