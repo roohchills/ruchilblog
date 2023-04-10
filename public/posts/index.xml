@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal OKRs 2022</title>
+      <link>/posts/personal-okrs-2022/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal-okrs-2022/</guid>
+      <description>Personal OKRs 2022</description>
+    </item>
+    
     <item>
       <title>The Magic of Airdrops : Earn While Your Learn</title>
       <link>/posts/the-magic-of-airdrops-earn-while-you-learn/</link>
@@ -52,6 +61,16 @@ Stating the names and description of the books that I liked and have read thus f
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/getting-your-time-back/</guid>
+      <description>A few things that I have started doing to get back my time:
+Setting an agenda for the meeting with the meeting invite. Agenda less meetings create confusion and lead to people talking about random things. 30 mins meeting by default as a calendar invite. This has helped me to close the open points quickly to free up time for important things. Putting slots on my calendar when I want to get work done without any distraction.</description>
+    </item>
+    
+    <item>
+      <title>Getting Your Time Back</title>
+      <link>/posts/revamping-my-blog-post-theme/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/revamping-my-blog-post-theme/</guid>
       <description>A few things that I have started doing to get back my time:
 Setting an agenda for the meeting with the meeting invite. Agenda less meetings create confusion and lead to people talking about random things. 30 mins meeting by default as a calendar invite. This has helped me to close the open points quickly to free up time for important things. Putting slots on my calendar when I want to get work done without any distraction.</description>
     </item>
