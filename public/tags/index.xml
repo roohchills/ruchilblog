@@ -6,11 +6,29 @@
     <description>Recent content in Tags on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Dives</title>
+      <link>/tags/deep-dives/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-dives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web3</title>
+      <link>/tags/web3/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web3/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Notes</title>
       <link>/tags/notes/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/notes/</guid>
       <description></description>
@@ -22,24 +40,6 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web3</title>
-      <link>/tags/web3/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/web3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To-Self</title>
-      <link>/tags/to-self/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/to-self/</guid>
       <description></description>
     </item>
     

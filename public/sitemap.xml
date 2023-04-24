@@ -3,24 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+    <loc>/tags/deep-dives/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/notes/</loc>
-    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+    <loc>/categories/deep-dives/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/maker-dao-deep-dive/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/revamping-my-blog-post-theme/</loc>
-    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/web3/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/web3/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/balaji-is-right-but-he-will-lose-the-bet/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/notes/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/revamping-my-blog-post-theme/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/career/</loc>
@@ -35,19 +53,7 @@
     <loc>/posts/the-magic-of-airdrops-earn-while-you-learn/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/web3/</loc>
-    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/web3/</loc>
-    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/identify-your-echochamber/</loc>
-    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/to-self/</loc>
-    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/to-self/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/productivity/</loc>
@@ -95,16 +101,16 @@
     <loc>/posts/delhi-rant/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/posts/how-to-build-a-successful-consumer-brand-in-india/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/industry-insights/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/industry-insights/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-does-it-take-to-build-a-successful-consumer-brand-in-india/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/getting-rich-without-getting-lucky/</loc>
+    <loc>/posts/getting-rich-without-getting-lucky-copy/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/summary/</loc>

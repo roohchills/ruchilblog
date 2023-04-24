@@ -5,7 +5,112 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Deep Dives - Maker DAO</title>
+    <link>/posts/maker-dao-deep-dive/</link>
+    <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/maker-dao-deep-dive/</guid>
+    <description>
+        &lt;p&gt;Maker DAO is a well-known protocol that has been a pioneer in the decentralized finance (DeFi) space. In 2021, Maker Foundation took a significant step towards decentralization by &lt;a href=&#34;https://blog.makerdao.com/the-maker-foundation-focuses-on-its-dissolution/&#34;&gt;dissolving itself&lt;/a&gt; and spinning up a DAO. As someone who has delved deep into the inner workings of Maker DAO over the past two weeks, I&amp;rsquo;ve gathered valuable insights and resources that will help anyone start conributing to Maker DAO.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Major Events&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456&#34;&gt;The End Game Proposal&lt;/a&gt; - Last year, Rune Christensen, the founder of Maker DAO, put forth a proposal that outlined the constitution and end game for Maker DAO. This proposal aimed to streamline the governance structure and achieve true decentralization. It has been considered one of the &lt;a href=&#34;https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown&#34;&gt;largest restructurings in its history&lt;/a&gt; in Maker DAO&amp;rsquo;s history and has passed with significant support&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/simple-makerdao-governance-from-first-principles/16207&#34;&gt;Hasu&amp;rsquo;s Proposal&lt;/a&gt; - Hasu, a popular figure in MakerDAO and Web 3.0, had put forward a proposal advocating for the creation of a constitution and a council of Makers. This proposal has sparked debate within the Maker community as it presents a differing perspective compared to Rune&amp;rsquo;s proposal and has resulted in a division of opinions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/can-we-justify-the-existential-risk-posed-by-psm-usdc/16180/14&#34;&gt;Mitigating PSM concerns during Tornado Cash Sanctions&lt;/a&gt; : In June 2022, a number of Maker DAO members expressed concerns about the protocol&amp;rsquo;s reliance on USDC to maintain the stability of DAI&amp;rsquo;s peg. This was due to the fact that Circle, the company behind USDC, had blacklisted addresses associated with Tornado cash. This raised questions within the Maker DAO community about the possibility of Circle blacklisting USDC in the PSM vault, which would have a major impact on DAI&amp;rsquo;s stability. The PSM vault, which held $3B worth of USDC, was not generating any returns for Maker DAO and posed a significant risk to DAI&amp;rsquo;s peg. To mitigate the risks associated with relying solely on USDC, the Maker DAO community undertook two major initiatives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Generating 1.5% reward on &lt;a href=&#34;https://www.coinbase.com/blog/coinbase-launches-usdc-institutional-rewards-program-with-makerdao&#34;&gt;$1.6B worth of assets&lt;/a&gt; through Coinbase institutional rewards program.&lt;/li&gt;
+&lt;li&gt;Giving &lt;a href=&#34;https://mips.makerdao.com/mips/details/MIP65#sentence-summary&#34;&gt;$500M assets to Monetalis&lt;/a&gt; to deploy those funds or buying treasuries and deploying it to real World Assets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.makerdao.com/t/adding-real-world-assets-rwa-as-dai-collateral-is-a-critical-step-for-maker-to-stabilize-the-peg-and-in-doing-so-we-change-the-world/3653&#34;&gt;Onboarding Real World Assets&lt;/a&gt; : To address the concerns regarding DAI&amp;rsquo;s peg  and diversification of the collateral asset class, Maker DAO introduced Real World Assets (RWA) as collateral for DAI. As a significant milestone, Maker DAO successfully onboarded Huntingdon Valley Bank to open a $100M DAI loan, creating a buzz in both the DeFi and TradFi World.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Maker&amp;rsquo;s Governance&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Off chain governance&lt;/em&gt; - Off-chain governance refers to processes for making decisions that don&amp;rsquo;t require on-chain voting and gathering feedback prior to on-chain voting. Off-chain governance happens on the Maker Governance Forum, where the community meets to propose and discuss new proposals. Anyone can participate in off-chain governance.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Informal Polls&lt;/em&gt; -
+Informal Polls make use of the forum&amp;rsquo;s support for poll creation. Informal Polls provide a set of options for the community to vote on. Although more structured than discussions, they cannot effect protocol changes nor trigger processes immediately; they are commonly used to measure community sentiment about issues affecting the MakerDAO ecosystem. Informal Polls can be created by anyone and there are no guidelines on the general use of Informal Polls other than courtesy and common sense.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Signal Requests&lt;/em&gt;
+Signal Requests are the most immediately powerful means of effecting change off-chain. Signal Requests are a type of poll whose specific parameters and necessity are established by processes that have been ratified within the MIPs Framework. The nature of the effects of Signal Requests can vary greatly in accordance to the MIP-ratified process that requires or allows Signal Requests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Governance Polling&lt;/em&gt; - Polling proposals are voted upon by MKR holders. Governance Polls occur on-chain and are used to measure the sentiment of MKR voters. Polls often run concurrently, allowing voters to participate in any number of them at the same time. Polls may have different formats like Binary Voting, &lt;a href=&#34;https://en.wikipedia.org/wiki/Ranked_voting&#34;&gt;Instant Run-Off Voting&lt;/a&gt;, or &lt;a href=&#34;https://en.wikipedia.org/wiki/Approval_voting&#34;&gt;Approval Voting&lt;/a&gt; depending on the topic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Executive Votes&lt;/em&gt; - Executive Votes execute technical changes to the Maker Protocol. When active, each Executive Vote has a proposed set of changes being made to the Maker Protocol&amp;rsquo;s smart contracts. Executive Votes use a Continuous Approval Voting model. Executive Votes can occur at any time, but the current schedule calls for Executive Votes to go live on Wednesdays.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The MakerDAO&amp;rsquo;s governance cycle is split into two distinct time frames&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/mip16-the-weekly-governance-cycle/3008&#34;&gt;Weekly Governance Cycle&lt;/a&gt;
+&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://github.com/makerdao/mips/blob/master/MIP16/weekly_governance_cycle.png?raw=true&#34; 
+    alt=&#34;!img&#34; 
+     /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/mip3-governance-cycle/1905/5&#34;&gt;Monthly Governance Cycle&lt;/a&gt;
+&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://user-images.githubusercontent.com/53664591/114054203-8c7de580-9887-11eb-90da-0431b051fff3.png&#34; 
+    alt=&#34;img&#34; 
+     /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This diagram provides a comprehensive overview of Maker DAO&amp;rsquo;s &lt;a href=&#34;https://manual.makerdao.com/governance/flowcharts/governance-flow&#34;&gt;governance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://1532779581-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1H5WOQe0EwkbgnI9bkOd%2Fuploads%2Fgit-blob-6f98f286bfdd18a4e747ceed2201c24d4fa86f29%2Fgovernance-flowchart.png?alt=media&#34; 
+    alt=&#34;image&#34; 
+     /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tokenomics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can think of Maker DAO as a bank that provides lending services in a permissionless manner, where borrowers are required to lock in collateral. Whenever a user deposits collateral, Maker DAO generates its own stablecoin, DAI, on the blockchain. Borrowers have the freedom to use DAI as they please, but they are charged a stability fee by Maker DAO as long as they hold DAI. To understand the tokenomics of Maker DAO, you can refer to the diagram below.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://miro.medium.com/v2/resize:fit:720/0*jbg1VUlK4T_YD3NJ&#34; 
+    alt=&#34;image&#34; 
+     /&gt;&lt;/p&gt;
+&lt;p&gt;To get a comprehensive understanding of Maker DAO&amp;rsquo;s tokenomics, I recommend going through this &lt;a href=&#34;https://www.youtube.com/watch?v=o4uR3_kiwrw&#34;&gt;video&lt;/a&gt; and this &lt;a href=&#34;https://medium.com/tokenomics-dao/tokenomics-101-makerdao-a083410aa158&#34;&gt;article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reverie.ooo/podcast-episode/rune-christensen-makerdaos-past-present-and-future&#34;&gt;Rune Christensen - MakerDAO&amp;rsquo;s Past, Present, and Future&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/us/podcast/monetsupply-perspectives-on-makerdao-governance/id1587401478?i=1000569708752&#34;&gt;MonetSupply - Perspectives on MakerDAO Governance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.makerdao.com/smart-contract-modules/core-module&#34;&gt;Core Modules of Maker DAO&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Balaji is right, but he may lose the bet</title>
+    <link>/posts/balaji-is-right-but-he-will-lose-the-bet/</link>
+    <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/balaji-is-right-but-he-will-lose-the-bet/</guid>
+    <description>
+        &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I will take that bet.&lt;br&gt;You buy 1 BTC.&lt;br&gt;I will send $1M USD.&lt;br&gt;This is ~40:1 odds as 1 BTC is worth ~$26k.&lt;br&gt;The term is 90 days.&lt;br&gt;All we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.&lt;br&gt;If someone knows how to do this… &lt;a href=&#34;https://t.co/hhPr522PQu&#34;&gt;https://t.co/hhPr522PQu&lt;/a&gt; &lt;a href=&#34;https://t.co/6Aav9KeJpe&#34;&gt;pic.twitter.com/6Aav9KeJpe&lt;/a&gt;&lt;/p&gt;&amp;mdash; Balaji (@balajis) &lt;a href=&#34;https://twitter.com/balajis/status/1636797265317867520?ref_src=twsrc%5Etfw&#34;&gt;March 17, 2023&lt;/a&gt;&lt;/blockquote&gt;
+ &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Having reviewed this tweet&amp;rsquo;s contents in detail, I find Balaji&amp;rsquo;s argument about inflation being a significant threat to the American economy quite persuasive. However, I remain unconvinced that the average citizien has the time to go into these complex details and subsequently exit to Bitcoin. The majority of people will likely accept the Federal Reserve&amp;rsquo;s explanation, which will be disseminated through various channels, and will continue to invest their money in the fiat system. Although the average American may have lost faith in the Fed, they are yet to reach the point of taking their hard-earned dollars out of the fiat system. They may have exited their trust, they will not exit thier $$&amp;rsquo;s right now.&lt;/p&gt;
+&lt;p&gt;To quote &lt;a href=&#34;https://www.telegraph.co.uk/news/worldnews/europe/eu/10874230/Jean-Claude-Juncker-profile-When-it-becomes-serious-you-have-to-lie.html&#34;&gt;Jean-Claude Juncker&lt;/a&gt;: &amp;ldquo;When it becomes serious, you have to lie&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I think most people will believe that lie for a little longer.&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Revamping My Blog Post Theme</title>
     <link>/posts/revamping-my-blog-post-theme/</link>
@@ -466,11 +571,11 @@ Believing that life is a single player game is okay, but having friends and rela
     </item>
     
     <item>
-    <title>What Does It Take to Build a Successful Consumer Brand in India?</title>
-    <link>/posts/what-does-it-take-to-build-a-successful-consumer-brand-in-india/</link>
+    <title>How to Build a Successful Consumer Brand in India?</title>
+    <link>/posts/how-to-build-a-successful-consumer-brand-in-india/</link>
     <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-does-it-take-to-build-a-successful-consumer-brand-in-india/</guid>
+    <guid>/posts/how-to-build-a-successful-consumer-brand-in-india/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://firesideventures.com&#34;&gt;Fireside Ventures&lt;/a&gt; (a consumer focussed fund) closed their second fund worth $118 Million three days ago. This comes at a time when people in India (my parents included) are willing to try out new products and give challenger brands a try. As India&amp;rsquo;s retail market evolves, modern trade (likes of LeMarche) is set to account for 15% (from 8%) of the overall distribution whereas online retail is expected to account for 5% (currently at ~ 3%). A few questions that I had in mind while observing this upsurge were why now? What has changed? Why is it so easy to start a consumer brand? I read a number of reports and spoke to 60+ founders in my quest to find the answers. This blog post is to detail out my findings :&lt;/p&gt;
 &lt;p&gt;1.&lt;strong&gt;Rise of the &amp;lsquo;Millennials&amp;rsquo;&lt;/strong&gt;&lt;/p&gt;
@@ -533,10 +638,10 @@ Social Media! Nobody could have imagined getting such a loyal following and quan
     
     <item>
     <title>Getting Rich Without Getting Lucky</title>
-    <link>/posts/getting-rich-without-getting-lucky/</link>
+    <link>/posts/getting-rich-without-getting-lucky-copy/</link>
     <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/getting-rich-without-getting-lucky/</guid>
+    <guid>/posts/getting-rich-without-getting-lucky-copy/</guid>
     <description>
         &lt;p&gt;This is a summary of the framework used by Naval Ravikant to create order in chaos. Summarizing everything that I have learnt from his blogposts and podcasts:&lt;/p&gt;
 &lt;ol&gt;
