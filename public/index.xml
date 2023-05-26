@@ -5,7 +5,36 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>What’s wrong with voting only decision making in DAO&#39;s</title>
+    <link>/posts/what-is-wrong-with-daos/</link>
+    <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/what-is-wrong-with-daos/</guid>
+    <description>
+        &lt;p&gt;Grant programs are one of the best ways to attract high-quality contributors to your ecosystem. There&amp;rsquo;s no denying their potential impact. However, many ecosystems fail to realize that if not implemented well, these programs can lead to the loss of key contributors. In an attention scare World, where abundant opportunities exist, it is crucial for ecosystems to provide the best experience in order to attract and retain high-quality contributors. I&amp;rsquo;ve personally faced the following problems as a DAO contributor:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lack of Accountability&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I recently submitted a grant proposal to a well-known ecosystem, but unfortunately, it was turned down. While I fully respect the community&amp;rsquo;s decision, I took the initiative to reach out to the all the members, especially those who voted against the proposal, seeking their valuable thoughts and feedback. However, it was discouraging to read their response considering the amount of time a proposer has to spend while writing the proposal.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;This might be something that could be taken into account for the future but currently there is no mechanism in this DAO for feedback like that&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Every voter in the DAO possesses the power to support or reject a proposal, but with that power comes the responsibility of being accountable for their decisions. It is essential for every voter and delegate in the DAO to publicly declare their mission statement and provide a rationale for each of their votes on proposals. This transparency would empower community members to assess whether they should continue delegating their votes or consider undelagating them.  Flipside Crypto’s initiative to mention &lt;a href=&#34;https://medium.com/flipside-governance/flipside-governance-recap-08-august-2022-90278737974f#:~:text=on%20and%20the-,rationale,-for%20our%20votes&#34;&gt;rationale&lt;/a&gt; on each vote is highly commendable. 👏&lt;/p&gt;
+&lt;p&gt;Not to brag 🙈, we at Questbook, have also advocated for reviewers to setup their domain specific evaluation rubrics in order to give actionable feedback to proposers and help them incorporate their feedback in a transparent manner.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://global.discourse-cdn.com/apecoin/optimized/2X/b/bc75c423d3219b8162c1da2db052b49c39836157_2_399x500.jpeg&#34; 
+    alt=&#34;img&#34; 
+     /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lack of Expertise&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Another crucial aspect for DAO’s is to identify or group delegates into their area of expertise. It is unrealistic to assume that every delegate possesses expertise across all focus areas relevant to ecosystem’s growth. Discussing and evaluating proposals outside of one’s area of expertise can be challenging and inefficient, potentially resulting in missed opportunities. Delegating responsibilities/Grouping delegates based on their expertise fixes this. &lt;strong&gt;🚀&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For instance, most reputed folks do not advocate for Kamala Harris as the AI czar&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The White House has announced VP &lt;a href=&#34;https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw&#34;&gt;@KamalaHarris&lt;/a&gt; as the AI czar 📢&lt;a href=&#34;https://twitter.com/DavidSacks?ref_src=twsrc%5Etfw&#34;&gt;@DavidSacks&lt;/a&gt; breaks down the issues we face with AI and the implications of Harris’ appointment to address these concerns on &lt;a href=&#34;https://twitter.com/theallinpod?ref_src=twsrc%5Etfw&#34;&gt;@theallinpod&lt;/a&gt; 👇 &lt;a href=&#34;https://t.co/4xdAjreMUK&#34;&gt;pic.twitter.com/4xdAjreMUK&lt;/a&gt;&lt;/p&gt;&amp;mdash; ALL-IN TOK (@all_in_tok) &lt;a href=&#34;https://twitter.com/all_in_tok/status/1660676897510916099?ref_src=twsrc%5Etfw&#34;&gt;May 22, 2023&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;The current state of DAO voting brings to mind a well-known quote, which I&amp;rsquo;ve modified below:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Let me hold the bags of a nation, and I care not who writes its proposals.&lt;/em&gt;&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Deep Dives - Spotify</title>
     <link>/posts/spotify-deep-dive/</link>
