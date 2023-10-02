@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ruchil Sharma</title>
+    <link>/categories/projects/</link>
+    <description>Recent content in Projects on Ruchil Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;ve started shipping code</title>
+      <link>/posts/started-to-programming-/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/started-to-programming-/</guid>
+      <description>Not too long ago, I used to introduce myself as someone who didn&amp;rsquo;t write code. Well, things have changed! With the rise of AI, especially since the introduction of ChatGPT, I am absolutely amazed by the capabilities of AI in assisting me with coding and building projects. I had a strong desire to create my own website after successfully launching one using Jekyll in 2020, but I was struggling with customizing it to my liking.</description>
+    </item>
+    
+  </channel>
+</rss>

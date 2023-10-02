@@ -5,7 +5,60 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>I&#39;ve started shipping code</title>
+    <link>/posts/started-to-programming-/</link>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/started-to-programming-/</guid>
+    <description>
+        &lt;p&gt;Not too long ago, I used to introduce myself as someone who didn&amp;rsquo;t write code. Well, things have changed! With the rise of AI, especially since the introduction of ChatGPT, I am absolutely amazed by the capabilities of AI in assisting me with coding and building projects. I had a strong desire to create my own website after successfully launching one using Jekyll in 2020, but I was struggling with customizing it to my liking. Scouring through endless Google search results was not only time-consuming but also incredibly frustrating. This led me to postpone working on my blog post, repeatedly putting it off until I had enough time to dedicate to it. But with the advent of ChatGPT, I came to a realization – I didn&amp;rsquo;t need more time; I simply needed to ask questions, and it would provide me with the precise answers I required to customize my blog post.&lt;/p&gt;
+&lt;p&gt;Since then, I&amp;rsquo;ve managed to complete two projects with the assistance of GPT, all while ensuring that I comprehend and can personally understand every code line of my projects. The first project I built this year was this very blog post, which demanded significant adjustments and customizations – tasks that would have taken me an incredibly long time in a world without GPT. Recently, I also successfully launched another application: a comprehensive quiz app built using JavaScript, HTML, and CSS. This app performs several functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It displays a list of questions.&lt;/li&gt;
+&lt;li&gt;It accepts user responses as input.&lt;/li&gt;
+&lt;li&gt;It verifies whether the answers provided are correct.&lt;/li&gt;
+&lt;li&gt;It calculates and displays the final quiz score.&lt;/li&gt;
+&lt;li&gt;It showcases the high scores achieved by various attempts.&lt;/li&gt;
+&lt;li&gt;It provides an option to reset the quiz.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ll share the link as soon as the SSL certifications are in place.&lt;/p&gt;
+&lt;p&gt;Inspired by the journey of &lt;a href=&#34;https://twitter.com/mckaywrigley&#34;&gt;Mckay Wrigley&lt;/a&gt;, who began coding just four years ago and managed to produce some of the most talked-about apps on Twitter consistently, I have now started on a path to ship a few projects myself. To keep track of all the projects I ship, you can visit the &amp;ldquo;Projects&amp;rdquo; section on my blog under the categories section.&lt;/p&gt;
+&lt;p&gt;Happy shipping!&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>What I Read in September</title>
+    <link>/posts/what-i-read-in-september/</link>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/what-i-read-in-september/</guid>
+    <description>
+        &lt;p&gt;&lt;strong&gt;Posts&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://hivemind.vc/nostr/&#34;&gt;Why I’m Betting Big on Nostr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newsletter.pragmaticengineer.com/p/the-pulse-63&#34;&gt;The Pulse #63: Working at a Startup vs in Big Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.arbitrum.foundation/t/arbitrums-short-term-incentive-program-arbitrum-improvement-proposal/16131/1&#34;&gt;Arbitrum’s Short-Term Incentive Program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://every.to/napkin-math/the-double-bind-theory-or-why-sensationalism-unfortunately-works&#34;&gt;The Double Bind Theory—Or Why Sensationalism Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lennysnewsletter.com/p/how-to-identify-your-ideal-customer&#34;&gt;How the most successful B2B startups came up with their original idea&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Books&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988&#34;&gt;The Alchemist&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Videos&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Dg-rKXi9XYg&#34;&gt;AI SAFETY PANEL | Elon Musk, Max Tegmark, Greg Brockman, Benjamin Netanyahu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MVYrJJNdrEg&#34;&gt;Mark Zuckerberg: First Interview in the Metaverse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ykY69lSpDdo&#34;&gt;Ray Kurzweil: Singularity, Superintelligence, and Immortality&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>What I Read in August</title>
     <link>/posts/what-i-read-in-august/</link>
