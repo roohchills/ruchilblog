@@ -6,7 +6,26 @@
     <description>Recent content in Posts on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting up vs Formal Degree</title>
+      <link>/posts/start-ups-vs-degree/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/start-ups-vs-degree/</guid>
+      <description>Recently, I had this discussion with a friend that brought to light the old age dilemma: the choice between pursuing a college degree, and the path of entrepreneurship or joining an early-stage startup. Traditionally, society, including my own family, has leaned heavily towards academic glory, valuing the potential for increased earnings and the prestige it brings. In contrast, the entrepreneurial route, while riskier and with uncertain success rates, offers great learning opportunities and a chance to go deep into the real-world challenges.</description>
+    </item>
+    
+    <item>
+      <title>What I Read in November</title>
+      <link>/posts/what-i-read-in-november/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-i-read-in-november/</guid>
+      <description>After close to an year, I took a small break to visit my family. While I didn&amp;rsquo;t reach as much as I usually do, sharing what I did:
+Read Lessons from going freemium: a decision that broke our business Inside OpenAI: How does ChatGPT Ship So Quickly? The Pulse #71: The Tech Behind Stripe’s Realtime Cyber Monday Dashboard How to Build a Better Social Network How to Mourn Omegle Podcast Control Pain and Heal Faster with your Brain Sam Altman Back at OpenAI Satya Nadella on OpenAI Debacle Elon Musk Dealbook Summit Book Clear Thinking by Shane Parrish </description>
+    </item>
+    
     <item>
       <title>What I Read in October</title>
       <link>/posts/what-i-read-in-october/</link>
@@ -307,15 +326,6 @@ A Masterclass in Outsourcing with Luis von Ahn (Duolingo) Open or closed with Jo
     </item>
     
     <item>
-      <title>Personal OKRs 2020</title>
-      <link>/posts/personal-okrs-2020/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/personal-okrs-2020/</guid>
-      <description>Personal OKRs 2020</description>
-    </item>
-    
-    <item>
       <title>Seek to Understand Before Trying to be Understood</title>
       <link>/posts/seek-to-understand-before-trying-to-be-understood/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
@@ -344,6 +354,15 @@ Let me list down what I am supposed to do today and complete today’s To - Dos.
       <guid>/posts/differeniating-yourself-through-social-media/</guid>
       <description>Increasing number of users are spending their time online and are using social media tools to express themselves. Amidst this, can the activities (posts/likes/comments) performed by people on social media be used to hire candidates for different job profiles? I see this as a great way to differentiate candidates from others in cases where they have similar educational backgrounds, skill sets, and resumes.
 We put ourselves out there whenever we post something, like/comment on a post, or update our Goodreads account with the latest book that we’ve read.</description>
+    </item>
+    
+    <item>
+      <title>Personal OKRs 2020</title>
+      <link>/posts/personal-okrs-2020-/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal-okrs-2020-/</guid>
+      <description>Personal OKRs 2020</description>
     </item>
     
   </channel>
