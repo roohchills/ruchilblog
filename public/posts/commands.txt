@@ -1,0 +1,7 @@
+Inside ruchilblog ruchil$ folder 
+
+1. Write hugo 
+2. git status - You should see changes to the public folder 
+3. git add public 
+4. git commit status -m "new post" 
+5. git push -u origin main 
