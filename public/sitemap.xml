@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ai/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/career/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,12 +15,6 @@
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/notes/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/opportuntiy-spotters-vs-squatters/</loc>
@@ -31,6 +31,12 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/notes/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/on-writing-more/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
