@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendations</title>
+      <link>/categories/recommendations/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>/categories/updates/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/updates/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Notes</title>
       <link>/categories/notes/</link>
@@ -103,15 +121,6 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/summary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommendations</title>
-      <link>/categories/recommendations/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/recommendations/</guid>
       <description></description>
     </item>
     
