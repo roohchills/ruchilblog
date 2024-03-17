@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    <loc>/tags/business/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/excerpts-from-mans-search-for-meaning/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    <loc>/categories/business/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/reddit_ipo/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/web3/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/excerpts-from-mans-search-for-meaning/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/recommendations/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/recommendations/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/pausing-monthly-read-posts/</loc>
@@ -111,9 +123,6 @@
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/web3/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/web3/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/what-is-wrong-with-daos/</loc>
