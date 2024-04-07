@@ -5,7 +5,27 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>So you want to setup your own blog</title>
+    <link>/posts/so-you-want-to-setup-your-own-blog/</link>
+    <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/so-you-want-to-setup-your-own-blog/</guid>
+    <description>
+        &lt;p&gt;If a cool blogpost template is stopping you from writing more, the problem is most definitely not that cool template. Writing more requires writing a lot in the initial phases. Same goes with writing well. It&amp;rsquo;s about turning on your mental faucet to let the ideas flow freely, which in turn, leads to quality content. If you really think a cool blog website will help you cross your motivation barrier and push you to start writing more, then maybe this post can help. I greatly admire &lt;a href=&#34;https://tomtunguz.com/&#34;&gt;Tomasz Tunguz’s&lt;/a&gt; writings , and my website draws inspiration from his. Here&amp;rsquo;s a breakdown of how I launched my blog:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Selecting a Static Website Generator&lt;/strong&gt;: After evaluating various options, I decided on Hugo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choosing a Theme&lt;/strong&gt;: I selected a theme from &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizing the Theme to Fit Your Needs&lt;/strong&gt;: My advice is to avoid overthinking the design process or spending too much time on it. The goal is to publish your first post as quickly as possible. Don&amp;rsquo;t think too much about the aesthetics of your site. For example, I haven&amp;rsquo;t yet added a subscribe button yet to directly identify and engage with readers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consistency is Key&lt;/strong&gt;: Publish posts regularly and write primarily for yourself. It&amp;rsquo;s incredibly rewarding to know even just one person reads your posts consistently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monitor Your Progress&lt;/strong&gt;: Regularly tracking my posting activity has not only improved my thinking but has also enabled me to achieve my goal of learning HTML and CSS. I&amp;rsquo;ve thoroughly enjoyed every aspect of redesigning my blog and tailoring it to my preferences, starting from the initial template selection. For instance, my Github activity data looks very different from what it was before 2022. I had ~ 50 Github contributions last year and already have ~10 this year compared with zero a few years back.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you have any further questions, feel free to DM on Twitter. I would  love to help you kickstart your writing journey.&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Reddit May Define the Future of IPOs</title>
     <link>/posts/reddit_ipo/</link>
