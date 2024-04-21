@@ -6,7 +6,29 @@
     <description>Recent content in Deep Dives on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/deep-dives/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/deep-dives/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro App Breakdown</title>
+      <link>/posts/retro-app-breakdown/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/retro-app-breakdown/</guid>
+      <description>I have started to breakdown mobile apps and make sense of why something exists within an app and what could have been better. Last weekend, I went through Retro App. You can go through the breakdown here . If you want to go through the onboarding experience, you can do so here.
+A couple of interesting observations that I came across while going through the app:
+Unlike Instagram’s social graph, Retro app has purposefully focused on restricting what you can see and share with your friends.</description>
+    </item>
+    
+    <item>
+      <title>ID by amoamo Breakdown</title>
+      <link>/posts/id-by-amo-amo-breakdown/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/id-by-amo-amo-breakdown/</guid>
+      <description>I’ve been keeping track of the new app in town ID by amoamo and found its onboarding and user experience really refreshing as compared to most other social media apps. I even Tweeted about it which was caught up by some of their team members.
+This was quite innovative by @amoamoamo app. Explaining why you should invite your friends while humanising the experience . Felt refreshing pic.twitter.com/MqwuzeIwWF
+&amp;mdash; @roohchill (@roohchill) January 14, 2024 You can see the breakdown here</description>
+    </item>
+    
     <item>
       <title>Deep Dives - Spotify</title>
       <link>/posts/spotify-deep-dive/</link>

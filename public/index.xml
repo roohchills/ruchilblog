@@ -5,7 +5,25 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Retro App Breakdown</title>
+    <link>/posts/retro-app-breakdown/</link>
+    <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/retro-app-breakdown/</guid>
+    <description>
+        &lt;p&gt;I have started to breakdown mobile apps and make sense of why something exists within an app and what could have been better. Last weekend, I went through &lt;a href=&#34;https://retro.app/&#34;&gt;Retro App&lt;/a&gt;. You can go through the breakdown &lt;a href=&#34;https://notability.com/n/218p0go6p7xQHPXSip4OBJ&#34;&gt;here&lt;/a&gt; . If you want to go through the onboarding experience, you can do so &lt;a href=&#34;https://drive.google.com/file/d/1gfdLnRxKVAYMpi4eEfIaftMN6WZiFLB_/view?usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A couple of interesting observations that I came across while going through the app:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Unlike Instagram’s social graph, Retro app has purposefully focused on restricting what you can see and share with your friends. Not with any random stranger on the internet&lt;/li&gt;
+&lt;li&gt;It pushes the users to create content or share their pictures and discourages passive viewing weeding out lurkers early in their user journey.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you want to see the breakdown of a specific app, feel free to &lt;a href=&#34;https://twitter.com/roohchill&#34;&gt;DM me&lt;/a&gt; your request on Twitter.&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Should We Be More Direct?</title>
     <link>/posts/should-we-be-more-direct/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Dives</title>
+      <link>/categories/deep-dives/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-dives/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Notes</title>
       <link>/categories/notes/</link>
@@ -85,15 +94,6 @@
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Dives</title>
-      <link>/categories/deep-dives/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-dives/</guid>
       <description></description>
     </item>
     
