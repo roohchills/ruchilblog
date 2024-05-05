@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/notes/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/the-business-of-selling-fear/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/deep-dives/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
@@ -11,23 +29,8 @@
     <loc>/categories/deep-dives/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/retro-app-breakdown/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/notes/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/should-we-be-more-direct/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
@@ -242,7 +245,7 @@
     <loc>/posts/thinking-in-pomodoros-copy/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/differeniating-yourself-through-social-media/</loc>
+    <loc>/posts/differeniating-yourself-through-social-media-copy/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/personal-okrs-2020-/</loc>
