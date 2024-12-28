@@ -2,51 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Dives on Ruchil Sharma</title>
-    <link>/tags/deep-dives/</link>
+    <link>//localhost:1313/tags/deep-dives/</link>
     <description>Recent content in Deep Dives on Ruchil Sharma</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deep-dives/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/deep-dives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retro App Breakdown</title>
-      <link>/posts/retro-app-breakdown/</link>
+      <link>//localhost:1313/posts/retro-app-breakdown/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/retro-app-breakdown/</guid>
-      <description>I have started to breakdown mobile apps and make sense of why something exists within an app and what could have been better. Last weekend, I went through Retro App. You can go through the breakdown here . If you want to go through the onboarding experience, you can do so here.
-A couple of interesting observations that I came across while going through the app:
-Unlike Instagram’s social graph, Retro app has purposefully focused on restricting what you can see and share with your friends.</description>
+      <guid>//localhost:1313/posts/retro-app-breakdown/</guid>
+      <description>&lt;p&gt;I have started to breakdown mobile apps and make sense of why something exists within an app and what could have been better. Last weekend, I went through &lt;a href=&#34;https://retro.app/&#34;&gt;Retro App&lt;/a&gt;. You can go through the breakdown &lt;a href=&#34;https://notability.com/n/218p0go6p7xQHPXSip4OBJ&#34;&gt;here&lt;/a&gt; . If you want to go through the onboarding experience, you can do so &lt;a href=&#34;https://drive.google.com/file/d/1gfdLnRxKVAYMpi4eEfIaftMN6WZiFLB_/view?usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A couple of interesting observations that I came across while going through the app:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Unlike Instagram’s social graph, Retro app has purposefully focused on restricting what you can see and share with your friends. Not with any random stranger on the internet&lt;/li&gt;&#xA;&lt;li&gt;It pushes the users to create content or share their pictures and discourages passive viewing weeding out lurkers early in their user journey.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;If you want to see the breakdown of a specific app, feel free to &lt;a href=&#34;https://twitter.com/roohchill&#34;&gt;DM me&lt;/a&gt; your request on Twitter.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ID by amoamo Breakdown</title>
-      <link>/posts/id-by-amo-amo-breakdown/</link>
+      <link>//localhost:1313/posts/id-by-amo-amo-breakdown/</link>
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/id-by-amo-amo-breakdown/</guid>
-      <description>I’ve been keeping track of the new app in town ID by amoamo and found its onboarding and user experience really refreshing as compared to most other social media apps. I even Tweeted about it which was caught up by some of their team members.
-This was quite innovative by @amoamoamo app. Explaining why you should invite your friends while humanising the experience . Felt refreshing pic.twitter.com/MqwuzeIwWF
-&amp;mdash; @roohchill (@roohchill) January 14, 2024 You can see the breakdown here</description>
+      <guid>//localhost:1313/posts/id-by-amo-amo-breakdown/</guid>
+      <description>&lt;p&gt;I’ve been keeping track of the new app in town ID by amoamo and found its onboarding and user experience really refreshing as compared to most other social media apps. I even Tweeted about it which was caught up by some of their team members.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This was quite innovative by &lt;a href=&#34;https://twitter.com/amoamoamo?ref_src=twsrc%5Etfw&#34;&gt;@amoamoamo&lt;/a&gt;  app. Explaining why you should invite your friends while humanising the experience . Felt refreshing &lt;a href=&#34;https://t.co/MqwuzeIwWF&#34;&gt;pic.twitter.com/MqwuzeIwWF&lt;/a&gt;&lt;/p&gt;&amp;mdash; @roohchill (@roohchill) &lt;a href=&#34;https://twitter.com/roohchill/status/1746512527213965704?ref_src=twsrc%5Etfw&#34;&gt;January 14, 2024&lt;/a&gt;&lt;/blockquote&gt;&#xA;    &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&#xA;    &#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;You can see the breakdown &lt;a href=&#34;https://notability.com/n/download/pdf/2xX_T3dI_EKA4MYImDRDFN/ID%20by%20Amo%20Amo.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Deep Dives - Spotify</title>
-      <link>/posts/spotify-deep-dive/</link>
+      <link>//localhost:1313/posts/spotify-deep-dive/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/spotify-deep-dive/</guid>
-      <description>Turn up the music - Spotify’s Teardown</description>
+      <guid>//localhost:1313/posts/spotify-deep-dive/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dabblish.substack.com/p/turn-up-the-music-spotifys-teardown&#34;&gt;Turn up the music - Spotify’s Teardown&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Deep Dives - Maker DAO</title>
-      <link>/posts/maker-dao-deep-dive/</link>
+      <link>//localhost:1313/posts/maker-dao-deep-dive/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/maker-dao-deep-dive/</guid>
-      <description>Maker DAO is a well-known protocol that has been a pioneer in the decentralized finance (DeFi) space. In 2021, Maker Foundation took a significant step towards decentralization by dissolving itself and spinning up a DAO. As someone who has delved deep into the inner workings of Maker DAO over the past two weeks, I&amp;rsquo;ve gathered valuable insights and resources that will help anyone start contributing to Maker DAO.
-Major Events</description>
+      <guid>//localhost:1313/posts/maker-dao-deep-dive/</guid>
+      <description>&lt;p&gt;Maker DAO is a well-known protocol that has been a pioneer in the decentralized finance (DeFi) space. In 2021, Maker Foundation took a significant step towards decentralization by &lt;a href=&#34;https://blog.makerdao.com/the-maker-foundation-focuses-on-its-dissolution/&#34;&gt;dissolving itself&lt;/a&gt; and spinning up a DAO. As someone who has delved deep into the inner workings of Maker DAO over the past two weeks, I&amp;rsquo;ve gathered valuable insights and resources that will help anyone start contributing to Maker DAO.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Major Events&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456&#34;&gt;The End Game Proposal&lt;/a&gt; - Last year, Rune Christensen, the founder of Maker DAO, put forth a proposal that outlined the constitution and end game for Maker DAO. This proposal aimed to streamline the governance structure and achieve true decentralization. This proposal has been considered one of the &lt;a href=&#34;https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown&#34;&gt;largest restructurings in its history&lt;/a&gt; and the proposal has passed with significant support.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

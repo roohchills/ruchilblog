@@ -2,56 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career on Ruchil Sharma</title>
-    <link>/categories/career/</link>
+    <link>//localhost:1313/categories/career/</link>
     <description>Recent content in Career on Ruchil Sharma</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/career/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opportunity Spotters vs Squatters</title>
-      <link>/posts/opportuntiy-spotters-vs-squatters/</link>
+      <link>//localhost:1313/posts/opportuntiy-spotters-vs-squatters/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/opportuntiy-spotters-vs-squatters/</guid>
-      <description>In my experience working across various sectors and stages of startups, I’ve learned that successful companies need a balance of visionaries who can conceive new ideas and track industry trends, as well as doers who can execute these ideas. Have too many visionaries who think of imaginative ideas every hour, you’ll end up with a company that has a longer list of ideas than the number of users for a long time.</description>
+      <guid>//localhost:1313/posts/opportuntiy-spotters-vs-squatters/</guid>
+      <description>&lt;p&gt;In my experience working across various sectors and stages of startups, I’ve learned that successful companies need a balance of visionaries who can conceive new ideas and track industry trends, as well as doers who can execute these ideas. Have too many visionaries who think of imaginative ideas every hour, you’ll end up with a company that has a longer list of  ideas than the number of users for a long time. Conversely, a team dominated by executors might find itself fixated on a minor or irrelevant problem for an extended period.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Personal OKRs 2022</title>
-      <link>/posts/personal-okrs-2022/</link>
+      <link>//localhost:1313/posts/personal-okrs-2022/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/personal-okrs-2022/</guid>
-      <description>Personal OKRs 2022</description>
+      <guid>//localhost:1313/posts/personal-okrs-2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://axiomatic-diver-1c4.notion.site/6506f40d988e426590ee8abe5ae12bea?v=e5de44c28ea540f6a45c98fea43a80e3&#34; title=&#34;Personal OKRs 2022&#34;&gt;Personal OKRs 2022&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Personal OKRs 2021</title>
-      <link>/posts/personal-okrs-2021/</link>
+      <link>//localhost:1313/posts/personal-okrs-2021/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/personal-okrs-2021/</guid>
-      <description>Personal OKRs 2021</description>
+      <guid>//localhost:1313/posts/personal-okrs-2021/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://axiomatic-diver-1c4.notion.site/e7ea574ebafd492fa927b9beb3256766?v=5627b3e927104714a69351d36e303194&#34; title=&#34;Personal OKRs 2021&#34;&gt;Personal OKRs 2021&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What is your superpower?</title>
-      <link>/posts/what-is-your-superpower-copy-2/</link>
+      <link>//localhost:1313/posts/what-is-your-superpower-copy-2/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/what-is-your-superpower-copy-2/</guid>
-      <description>In one of the excerpt from the book No Filter: The Inside Story of Instagram, Kevin Systorm explains to Ashton Kutcher why Instagram blew up. It was not because of network effects. There were no network effects on day 1. It was not because of celebrity users. It was not because they rode on Twitter and Facebook graph of users. All of these happened later. Like most B2C products, it started as a single player use case: How to make your photos more beautiful, and shareable</description>
+      <guid>//localhost:1313/posts/what-is-your-superpower-copy-2/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; &#xA;    src=&#34;https://manassaloi.com/assets/img/no_filter.png&#34; &#xA;    alt=&#34;image&#34; &#xA;     /&gt;&lt;/p&gt;&#xA;&lt;p&gt;In one of the excerpt from the book No Filter: The Inside Story of Instagram, Kevin Systorm explains to Ashton Kutcher why Instagram blew up. It was not because of network effects. There were no network effects on day 1. It was not because of celebrity users. It was not because they rode on Twitter and Facebook graph of users. All of these happened later. Like most B2C products, it started as a single player use case: &lt;strong&gt;How to make your photos more beautiful, and shareable&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Differentiating Yourself Through Social Media</title>
-      <link>/posts/differeniating-yourself-through-social-media-copy/</link>
+      <link>//localhost:1313/posts/differeniating-yourself-through-social-media-copy/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/differeniating-yourself-through-social-media-copy/</guid>
-      <description>Increasing number of users are spending their time online and are using social media tools to express themselves. Amidst this, can the activities (posts/likes/comments) performed by people on social media be used to hire candidates for different job profiles? I see this as a great way to differentiate candidates from others in cases where they have similar educational backgrounds, skill sets, and resumes.
-We put ourselves out there whenever we post something, like/comment on a post, or update our Goodreads account with the latest book that we’ve read.</description>
+      <guid>//localhost:1313/posts/differeniating-yourself-through-social-media-copy/</guid>
+      <description>&lt;p&gt;Increasing number of users are spending their time online and are using social media tools to express themselves. Amidst this, can the activities (posts/likes/comments) performed by people on social media be used to hire candidates for different job profiles? I see this as a great way to differentiate candidates from others in cases where they have similar educational backgrounds, skill sets, and resumes.&lt;/p&gt;&#xA;&lt;p&gt;We put ourselves out there whenever we post something, like/comment on a post, or update our Goodreads account with the latest book that we’ve read. Every activity that we perform online conveys some or the other aspect about us. I feel that the reliance on social media to filter applicants will increase with time and will be used to differentiate similar candidates, especially to determine cultural fit (something on the lines of Klout Score, but more focussed towards determining cultural fit instead of influence) . Not limiting to jobs, activities on social media will also be used to filter university applications.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

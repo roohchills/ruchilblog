@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on Ruchil Sharma</title>
-    <link>/categories/business/</link>
+    <link>//localhost:1313/categories/business/</link>
     <description>Recent content in Business on Ruchil Sharma</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reddit May Define the Future of IPOs</title>
-      <link>/posts/reddit_ipo/</link>
+      <link>//localhost:1313/posts/reddit_ipo/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/reddit_ipo/</guid>
-      <description>Reddit, founded in 2005, has filed for an IPO. If you missed out on other indicators of this bull market, this is definitely one of the most glaring ones. Markets have opened up, tech stocks and top crypto tokens such as Bitcoin and Ethereum are ripping. But there’s one thing special about Reddit IPO’s that is not talked about enough - stock allocation to it users
-From Stratechery:
-Airdrops and token allocation for community members is very common in the Web3 universe, but users of a web2 platform getting a stock allocation for their contributions is unheard of in the Web 2 World.</description>
+      <guid>//localhost:1313/posts/reddit_ipo/</guid>
+      <description>&lt;p&gt;Reddit, founded in 2005, has filed for an IPO. If you missed out on other indicators of this bull market, this is definitely one of the most glaring ones. Markets have opened up, tech stocks and top crypto tokens such as Bitcoin and Ethereum are ripping. But there’s one thing special about Reddit IPO’s that is not talked about enough - stock allocation to it users&lt;/p&gt;&#xA;&lt;p&gt;From &lt;a href=&#34;https://stratechery.com/2024/reddit-s-1-reddits-prospects-reddit-grows-up/&#34;&gt;Stratechery&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; &#xA;    src=&#34;https://axiomatic-diver-1c4.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc6a62786-f859-45a8-8419-fae4370cf6f4%2F017ae6ec-30ca-467b-aa86-513aff84c359%2FIMG_0224.jpeg?table=block&amp;amp;id=17423d13-e6cf-44e6-ab6e-3ce885f444f8&amp;amp;spaceId=c6a62786-f859-45a8-8419-fae4370cf6f4&amp;amp;width=2000&amp;amp;userId=&amp;amp;cache=v2&#34; &#xA;    alt=&#34;img&#34; &#xA;     /&gt;&lt;/p&gt;&#xA;&lt;p&gt;Airdrops and token allocation for community members is very common in the Web3 universe, but users of a web2 platform getting a stock allocation for their contributions is unheard of in the Web 2 World. I find this decision taken by the Reddit founders really fascinating! It may well define how IPOs are announced from this point onwards and a way for Web 2 companies to earn user trust.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

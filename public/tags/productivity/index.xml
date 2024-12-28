@@ -2,60 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on Ruchil Sharma</title>
-    <link>/tags/productivity/</link>
+    <link>//localhost:1313/tags/productivity/</link>
     <description>Recent content in Productivity on Ruchil Sharma</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So You Want to Form New Habits?</title>
-      <link>/posts/so-you-want-to-form-new-habits/</link>
+      <link>//localhost:1313/posts/so-you-want-to-form-new-habits/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/so-you-want-to-form-new-habits/</guid>
-      <description>Creating positive habits takes more than just willpower. It doesn&amp;rsquo;t happen by itself as it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your environment. Last year, I spent significant amount of time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week.</description>
+      <guid>//localhost:1313/posts/so-you-want-to-form-new-habits/</guid>
+      <description>&lt;p&gt;Creating positive habits takes more than just willpower. It doesn&amp;rsquo;t happen by itself as it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your environment. Last year, I spent significant amount of time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Getting Your Time Back</title>
-      <link>/posts/getting-your-time-back/</link>
+      <link>//localhost:1313/posts/getting-your-time-back/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/getting-your-time-back/</guid>
-      <description>A few things that I have started doing to get back my time:
-Setting an agenda for the meeting with the meeting invite. Agenda less meetings create confusion and lead to people talking about random things. 30 mins meeting by default as a calendar invite. This has helped me to close the open points quickly to free up time for important things. Putting slots on my calendar when I want to get work done without any distraction.</description>
+      <guid>//localhost:1313/posts/getting-your-time-back/</guid>
+      <description>&lt;p&gt;A few things that I have started doing to get back my time:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Setting an agenda for the meeting with the meeting invite. Agenda less meetings create confusion and&#xA;lead to people talking about random things.&lt;/li&gt;&#xA;&lt;li&gt;30 mins meeting by default as a calendar invite. This has helped me to close the open points quickly to&#xA;free up time for important things.&lt;/li&gt;&#xA;&lt;li&gt;Putting slots on my calendar when I want to get work done without any distraction. I cancel/&#xA;reschedule all meetings if they clash during that time.&lt;/li&gt;&#xA;&lt;li&gt;Ending meetings early or declining to attend those that do not provide any insight/actionable. I also&#xA;make sure that one of the attendees or I share the actionables from a meeting with all the relevant    stakeholders within 24 hours of the meeting.&lt;/li&gt;&#xA;&lt;li&gt;Not attending calls/meetings just because they are on my calendar.&lt;/li&gt;&#xA;&lt;li&gt;While talking feedback and ideas from relevant stakeholders is important, executing low impact ideas may&#xA;not be the best use of your time. To avoid this, I try to make the person who proposes an idea think.&lt;/li&gt;&#xA;&lt;li&gt;End meetings early if you are done discussing the action items. No point extending the meeting for an&#xA;hour just because the calendar invite was for one hour.&lt;/li&gt;&#xA;&lt;li&gt;You may wish to choose &lt;a href=&#34;https://asana.com/resources/eisenhower-matrix#:~:text=The%20Eisenhower%20Matrix%20is%20a,the%20tasks%20you&#39;ll%20delete.&#34;&gt;Eisenhover Matrix&lt;/a&gt; to prioritise your work.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Habit Stacking Tools</title>
-      <link>/posts/habit-stacking-tools/</link>
+      <link>//localhost:1313/posts/habit-stacking-tools/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/habit-stacking-tools/</guid>
-      <description>Some of my friends asked me to detail out the tools/platforms that I use to form and stick to my daily habits. Listing some of them down here :
-A. Note - Taking
-Evernote : Everything new that I come across goes into Evernote. I use 7 - 10 different accounts with each account having a different purpose such as writing, online learning, book summaries, designing. Notion : While some of the notebooks are same as that on Evernote, I use Notion when I’m using Desktop or on web.</description>
+      <guid>//localhost:1313/posts/habit-stacking-tools/</guid>
+      <description>&lt;p&gt;Some of my friends asked me to detail out the tools/platforms that I use to form and stick to my daily habits. Listing some of them down here :&lt;/p&gt;&#xA;&lt;p&gt;A. &lt;strong&gt;Note - Taking&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://evernote.com/&#34;&gt;Evernote&lt;/a&gt; : Everything new that I come across goes into Evernote. I use 7 - 10 different accounts with each account having a different purpose such as writing, online learning, book summaries, designing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.notion.so/&#34;&gt;Notion&lt;/a&gt; : While some of the notebooks are same as that on Evernote, I use Notion when I’m using Desktop or on web. Notion is a place where all my notes are structured so that I can pull info. on any topic anytime.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.gingerlabs.com/&#34;&gt;Notability&lt;/a&gt; : One of the best apps for taking notes. The experience of writing on a paper using a pen/pencil is unbeatable. I use Notability on iPad and iPhone along with Apple Pencil and compile all of my notes on Notion at the end of each week.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.google.android.keep&amp;amp;hl=en_IN&amp;amp;gl=US&#34;&gt;Google Keep&lt;/a&gt; : Everything high level/strategic goals here&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.whatsapp.com/?lang=en&#34;&gt;Whatsapp&lt;/a&gt; : The best note - taking app out there. I have 15 - 20 different groups where I share notes to myself and subsequently, put it all on Notion at the end of each week.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;B. Reading&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Speed Reading</title>
-      <link>/posts/speed-reading/</link>
+      <link>//localhost:1313/posts/speed-reading/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/speed-reading/</guid>
-      <description>Back in January, 2019, I came across a technique called “Speed Reading” on one of Tim Ferris’ videos. I was so intrigued by it that not only did I start “reading about speed reading” a lot, I also started practicing the same tirelessly. Since then, I have almost doubled my reading speed with increased retention and have started to summarise all the books that I read on Evernote (Will share them all and make it accessible to everyone by the end of this year).</description>
+      <guid>//localhost:1313/posts/speed-reading/</guid>
+      <description>&lt;p&gt;Back in January, 2019, I came across a technique called “Speed Reading” on one of Tim Ferris’ videos. I was so intrigued by it that not only did I start “reading about speed reading” a lot, I also started practicing the same tirelessly. Since then, I have almost doubled my reading speed with increased retention and have started to summarise all the books that I read on Evernote (Will share them all and make it accessible to everyone by the end of this year). The next question that should come to your mind is what the hell is “speed reading” and how do I use it to increase my reading speed?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thinking in Pomodoros</title>
-      <link>/posts/thinking-in-pomodoros-copy/</link>
+      <link>//localhost:1313/posts/thinking-in-pomodoros-copy/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/thinking-in-pomodoros-copy/</guid>
-      <description>Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference :
-The Old Me
-Let me list down what I am supposed to do today and complete today’s To - Dos.</description>
+      <guid>//localhost:1313/posts/thinking-in-pomodoros-copy/</guid>
+      <description>&lt;p&gt;Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference :&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Old Me&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let me list down what I am supposed to do today and complete today’s To - Dos. I’ll go through the list one by one and then reward myself at the end of the day with an episode of “House of Lies” or reply to some of my Whatsapp messages. But there is something inherently evil with this strategy which is “not defining your stop losses”. As soon as I find my flow in one of the activities in my To - Do list, I lose track of time and can only complete ~ 50% of the assigned tasks on any given day.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

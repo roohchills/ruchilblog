@@ -2,258 +2,261 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/posts/restart-writing/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/notes/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/notes/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/memecoins-as-a-way-to-consume-news/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/memecoins-as-a-way-to-consume-news/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/notes/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/the-business-of-selling-fear/</loc>
+    <loc>//localhost:1313/posts/the-business-of-selling-fear/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/deep-dives/</loc>
+    <loc>//localhost:1313/tags/deep-dives/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/deep-dives/</loc>
+    <loc>//localhost:1313/categories/deep-dives/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/retro-app-breakdown/</loc>
+    <loc>//localhost:1313/posts/retro-app-breakdown/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/should-we-be-more-direct/</loc>
+    <loc>//localhost:1313/posts/should-we-be-more-direct/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/education/</loc>
+    <loc>//localhost:1313/tags/education/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/education/</loc>
+    <loc>//localhost:1313/categories/education/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/so-you-want-to-setup-your-own-blog/</loc>
+    <loc>//localhost:1313/posts/so-you-want-to-setup-your-own-blog/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/business/</loc>
+    <loc>//localhost:1313/tags/business/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/business/</loc>
+    <loc>//localhost:1313/categories/business/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/reddit_ipo/</loc>
+    <loc>//localhost:1313/posts/reddit_ipo/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/web3/</loc>
+    <loc>//localhost:1313/categories/web3/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/excerpts-from-mans-search-for-meaning/</loc>
+    <loc>//localhost:1313/posts/excerpts-from-mans-search-for-meaning/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/recommendations/</loc>
+    <loc>//localhost:1313/tags/recommendations/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/recommendations/</loc>
+    <loc>//localhost:1313/categories/recommendations/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/pausing-monthly-read-posts/</loc>
+    <loc>//localhost:1313/posts/pausing-monthly-read-posts/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/updates/</loc>
+    <loc>//localhost:1313/tags/updates/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/updates/</loc>
+    <loc>//localhost:1313/categories/updates/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/id-by-amo-amo-breakdown/</loc>
+    <loc>//localhost:1313/posts/id-by-amo-amo-breakdown/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-january/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-january/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ai/</loc>
+    <loc>//localhost:1313/tags/ai/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/ai/</loc>
+    <loc>//localhost:1313/categories/ai/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/career/</loc>
+    <loc>//localhost:1313/tags/career/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/career/</loc>
+    <loc>//localhost:1313/categories/career/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/opportuntiy-spotters-vs-squatters/</loc>
+    <loc>//localhost:1313/posts/opportuntiy-spotters-vs-squatters/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/perplexity-initial-thoughts/</loc>
+    <loc>//localhost:1313/posts/perplexity-initial-thoughts/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/on-writing-more/</loc>
+    <loc>//localhost:1313/posts/on-writing-more/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-december/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-december/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/truth-seekers-win/</loc>
+    <loc>//localhost:1313/posts/truth-seekers-win/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/2023-learnings/</loc>
+    <loc>//localhost:1313/posts/2023-learnings/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/start-ups-vs-degree/</loc>
+    <loc>//localhost:1313/posts/start-ups-vs-degree/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-november/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-november/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-october/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-october/</loc>
     <lastmod>2023-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/started-shipping-code/</loc>
+    <loc>//localhost:1313/posts/started-shipping-code/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/projects/</loc>
+    <loc>//localhost:1313/tags/projects/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/projects/</loc>
+    <loc>//localhost:1313/categories/projects/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-september/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-september/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-august/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-august/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/shark-tank/</loc>
+    <loc>//localhost:1313/posts/shark-tank/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-june-and-july/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-june-and-july/</loc>
     <lastmod>2023-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/why-talented-tech-players-need-to-stay-in-the-game/</loc>
+    <loc>//localhost:1313/posts/why-talented-tech-players-need-to-stay-in-the-game/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-i-read-in-may/</loc>
+    <loc>//localhost:1313/posts/what-i-read-in-may/</loc>
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/web3/</loc>
+    <loc>//localhost:1313/tags/web3/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-wrong-with-daos/</loc>
+    <loc>//localhost:1313/posts/what-is-wrong-with-daos/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/spotify-deep-dive/</loc>
+    <loc>//localhost:1313/posts/spotify-deep-dive/</loc>
     <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/maker-dao-deep-dive/</loc>
+    <loc>//localhost:1313/posts/maker-dao-deep-dive/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/balaji-is-right-but-he-will-lose-the-bet-copy-2/</loc>
+    <loc>//localhost:1313/posts/balaji-is-right-but-he-will-lose-the-bet-copy-2/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/revamping-my-blog-post-theme/</loc>
+    <loc>//localhost:1313/posts/revamping-my-blog-post-theme/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/personal-okrs-2022/</loc>
+    <loc>//localhost:1313/posts/personal-okrs-2022/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/the-magic-of-airdrops-earn-while-you-learn/</loc>
+    <loc>//localhost:1313/posts/the-magic-of-airdrops--earn-while-you-learn/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/identify-your-echochamber/</loc>
+    <loc>//localhost:1313/posts/identify-your-echochamber/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/productivity/</loc>
+    <loc>//localhost:1313/tags/productivity/</loc>
     <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/productivity/</loc>
+    <loc>//localhost:1313/categories/productivity/</loc>
     <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/so-you-want-to-form-new-habits/</loc>
+    <loc>//localhost:1313/posts/so-you-want-to-form-new-habits/</loc>
     <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/reading/</loc>
+    <loc>//localhost:1313/tags/reading/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/reading/</loc>
+    <loc>//localhost:1313/categories/reading/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-am-i-reading-these-days/</loc>
+    <loc>//localhost:1313/posts/what-am-i-reading-these-days/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/getting-your-time-back/</loc>
+    <loc>//localhost:1313/posts/getting-your-time-back/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/strong-opinions-loosely-held-copy/</loc>
+    <loc>//localhost:1313/posts/strong-opinions-loosely-held-copy/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/a-course-on-venture-capital/</loc>
+    <loc>//localhost:1313/posts/a-course-on-venture-capital/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/habit-stacking-tools/</loc>
+    <loc>//localhost:1313/posts/habit-stacking-tools/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/personal-okrs-2021/</loc>
+    <loc>//localhost:1313/posts/personal-okrs-2021/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/everything-is-a-product/</loc>
+    <loc>//localhost:1313/posts/everything-is-a-product/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/delhi-rant/</loc>
+    <loc>//localhost:1313/posts/delhi-rant/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-build-a-successful-consumer-brand-in-india/</loc>
+    <loc>//localhost:1313/posts/how-to-build-a-successful-consumer-brand-in-india/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/industry-insights/</loc>
+    <loc>//localhost:1313/tags/industry-insights/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/industry-insights/</loc>
+    <loc>//localhost:1313/categories/industry-insights/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/getting-rich-without-getting-lucky-copy-2/</loc>
+    <loc>//localhost:1313/posts/getting-rich-without-getting-lucky-copy-2/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/summary/</loc>
+    <loc>//localhost:1313/tags/summary/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/summary/</loc>
+    <loc>//localhost:1313/categories/summary/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/best-of-masters-of-scale/</loc>
+    <loc>//localhost:1313/posts/best-of-masters-of-scale/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/speed-reading/</loc>
+    <loc>//localhost:1313/posts/speed-reading/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-your-superpower-copy-2/</loc>
+    <loc>//localhost:1313/posts/what-is-your-superpower-copy-2/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/seek-to-understand-before-trying-to-be-understood/</loc>
+    <loc>//localhost:1313/posts/seek-to-understand-before-trying-to-be-understood/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/thinking-in-pomodoros-copy/</loc>
+    <loc>//localhost:1313/posts/thinking-in-pomodoros-copy/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/differeniating-yourself-through-social-media-copy/</loc>
+    <loc>//localhost:1313/posts/differeniating-yourself-through-social-media-copy/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/personal-okrs-2020-/</loc>
+    <loc>//localhost:1313/posts/personal-okrs-2020-/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url>
 </urlset>

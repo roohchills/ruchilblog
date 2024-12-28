@@ -1,17 +1,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruchil Sharma</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Back to the Keyboard </title>
+    <link>//localhost:1313/posts/restart-writing/</link>
+    <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    
+    <guid>//localhost:1313/posts/restart-writing/</guid>
+    <description>
+        &lt;p&gt;After a six-month pause filled with questions and conversations,  a bit of travel, and a renewed focus on physical well-being, I&amp;rsquo;m back at the keyboard. 2024 has been that year that has made me realise that we truly live in unprecedented times. Each day brings a new reminder of just how uncertain the future is.&lt;/p&gt;
+&lt;p&gt;I will share  a detailed reflection post soon. For now, I&amp;rsquo;m simply glad to be back in front of the screen. Stay tuned for more regular posts ahead. Hope you have a good time with your family during this break.&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Memecoins as a way to consume news</title>
-    <link>/posts/memecoins-as-a-way-to-consume-news/</link>
+    <link>//localhost:1313/posts/memecoins-as-a-way-to-consume-news/</link>
     <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/memecoins-as-a-way-to-consume-news/</guid>
+    <guid>//localhost:1313/posts/memecoins-as-a-way-to-consume-news/</guid>
     <description>
         &lt;p&gt;Publicly admiting, I dismissed memecoins before the term even existed. But I am also acknowledging the fact that the recent surge in Solana memecoin activity has undeniably contributed to the current bull market. In fact, most of my friends outside the crypto sphere are now asking me which memecoin they should invest in, highlighting the significant impact memecoins have had on the crypto landscape.&lt;/p&gt;
 &lt;p&gt;Trading and investing in memecoins will become a normalized and acceptable practice, much like betting has been for years. Just as Warren Buffet made his fortune by identifying high ROI stocks early in his career, the next Warren Buffet is likely sitting behind a laptop, building the framework and developing the playbook for investing in memecoins. By the time this playbook becomes public, he/she will have already amassed a fortune. Crypto drastically accelerates the realization cycle.&lt;/p&gt;
@@ -22,10 +35,10 @@
     
     <item>
     <title>The Business of Selling Fear</title>
-    <link>/posts/the-business-of-selling-fear/</link>
+    <link>//localhost:1313/posts/the-business-of-selling-fear/</link>
     <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/the-business-of-selling-fear/</guid>
+    <guid>//localhost:1313/posts/the-business-of-selling-fear/</guid>
     <description>
         &lt;p&gt;“AI will take all jobs.” &amp;ldquo;You shouldn&amp;rsquo;t be in your job if you do not know y&amp;rdquo;. I see these posts everyday on X from various Twitter gurus. These statements seem to do nothing but scare folks. It feels like they&amp;rsquo;re more &lt;em&gt;&lt;strong&gt;into fear-mongering&lt;/strong&gt;&lt;/em&gt; than anything truly insightful, similar to a street-corner astrologer warning of dire consequences just to make a quick buck.  Despite that, why do these gurus have massive popularity? Because tech workers already feel insecure about their futures.&lt;/p&gt;
 &lt;p&gt;In a post ZIRP era coupled with layoffs and advancements in AI, tech workforce is faced to question their value to their employer. Most fear peddlers just amplify these anxieties, hoping to boost their own following or sell their courses. It doesn’t take much for them to sensationalise and confidently lie about the future. But in this process, they shake the confidence of a 22 year old who’s just starting out in his/her carreer. It’s sad to see that the anxiety of our youth can be exploited for profit. I do not know the right answer to solve this, but things can definitely be improved if Twitter gurus start to question the consequences of their posts. They are called &amp;ldquo;influencers&amp;rdquo; for a reason. I’m not saying that all posts are meant to instill fear in the audience, but most posts are for profit or follower maximisation.&lt;/p&gt;
@@ -36,10 +49,10 @@
     
     <item>
     <title>Retro App Breakdown</title>
-    <link>/posts/retro-app-breakdown/</link>
+    <link>//localhost:1313/posts/retro-app-breakdown/</link>
     <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/retro-app-breakdown/</guid>
+    <guid>//localhost:1313/posts/retro-app-breakdown/</guid>
     <description>
         &lt;p&gt;I have started to breakdown mobile apps and make sense of why something exists within an app and what could have been better. Last weekend, I went through &lt;a href=&#34;https://retro.app/&#34;&gt;Retro App&lt;/a&gt;. You can go through the breakdown &lt;a href=&#34;https://notability.com/n/218p0go6p7xQHPXSip4OBJ&#34;&gt;here&lt;/a&gt; . If you want to go through the onboarding experience, you can do so &lt;a href=&#34;https://drive.google.com/file/d/1gfdLnRxKVAYMpi4eEfIaftMN6WZiFLB_/view?usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;A couple of interesting observations that I came across while going through the app:&lt;/p&gt;
@@ -54,10 +67,10 @@
     
     <item>
     <title>Should We Be More Direct?</title>
-    <link>/posts/should-we-be-more-direct/</link>
+    <link>//localhost:1313/posts/should-we-be-more-direct/</link>
     <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/should-we-be-more-direct/</guid>
+    <guid>//localhost:1313/posts/should-we-be-more-direct/</guid>
     <description>
         &lt;p&gt;Most young folks at the start of their careers want to take up as much as they can. Time isn’t a concern at all. Well, why not? We are taught to “learn and work hard” and everything will fall in place by itself. It has to … Twitter gurus preach to prioritise long term over short term without telling you what long term means.&lt;/p&gt;
 &lt;p&gt;However, what if there&amp;rsquo;s an alternative approach?  By focusing on short-term objectives, we might be able to &lt;strong&gt;find&lt;/strong&gt; our long-term objectives. Most individuals do not know what they want out of their lives in the long term. Figuring it out takes multiple iteration. It is a continuous exercise which easily takes a few years. Meanwhile, we spend countless hours working on things that realistically, won&amp;rsquo;t drastically change our lives. Then why do most people grind on their first jobs? They primarily want enough to pay their bills while at the same time convincing themselves that whatever they are working on is their long term goal. This usually isn’t the case. I’m excluding the very few  who genuinely love their work and pursue it passionately for its own sake.&lt;/p&gt;
@@ -70,10 +83,10 @@
     
     <item>
     <title>So you want to setup your own blog</title>
-    <link>/posts/so-you-want-to-setup-your-own-blog/</link>
+    <link>//localhost:1313/posts/so-you-want-to-setup-your-own-blog/</link>
     <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/so-you-want-to-setup-your-own-blog/</guid>
+    <guid>//localhost:1313/posts/so-you-want-to-setup-your-own-blog/</guid>
     <description>
         &lt;p&gt;If a cool blogpost template is stopping you from writing more, the problem is most definitely not that cool template. Writing more requires writing a lot in the initial phases. Same goes with writing well. It&amp;rsquo;s about turning on your mental faucet to let the ideas flow freely, which in turn, leads to quality content. If you really think a cool blog website will help you cross your motivation barrier and push you to start writing more, then maybe this post can help. I greatly admire &lt;a href=&#34;https://tomtunguz.com/&#34;&gt;Tomasz Tunguz’s&lt;/a&gt; writings , and my website draws inspiration from his. Here&amp;rsquo;s a breakdown of how I launched my blog:&lt;/p&gt;
 &lt;ol&gt;
@@ -90,10 +103,10 @@
     
     <item>
     <title>Reddit May Define the Future of IPOs</title>
-    <link>/posts/reddit_ipo/</link>
+    <link>//localhost:1313/posts/reddit_ipo/</link>
     <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/reddit_ipo/</guid>
+    <guid>//localhost:1313/posts/reddit_ipo/</guid>
     <description>
         &lt;p&gt;Reddit, founded in 2005, has filed for an IPO. If you missed out on other indicators of this bull market, this is definitely one of the most glaring ones. Markets have opened up, tech stocks and top crypto tokens such as Bitcoin and Ethereum are ripping. But there’s one thing special about Reddit IPO’s that is not talked about enough - stock allocation to it users&lt;/p&gt;
 &lt;p&gt;From &lt;a href=&#34;https://stratechery.com/2024/reddit-s-1-reddits-prospects-reddit-grows-up/&#34;&gt;Stratechery&lt;/a&gt;:&lt;/p&gt;
@@ -113,10 +126,10 @@
     
     <item>
     <title>Excerpts from Man’s Search for Meaning</title>
-    <link>/posts/excerpts-from-mans-search-for-meaning/</link>
+    <link>//localhost:1313/posts/excerpts-from-mans-search-for-meaning/</link>
     <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/excerpts-from-mans-search-for-meaning/</guid>
+    <guid>//localhost:1313/posts/excerpts-from-mans-search-for-meaning/</guid>
     <description>
         &lt;p&gt;I recently finished the book &lt;a href=&#34;https://www.amazon.in/Mans-Search-Meaning-Viktor-Frankl/dp/1846041244&#34;&gt;Man’s Search for Meaning&lt;/a&gt; which was kept for a long time on my digital bookshelf. I found the following timeless excerpts the most interesting that I’ll keep with me. Hope you find them interesting too.&lt;/p&gt;
 &lt;h3 id=&#34;on-love&#34;&gt;
@@ -171,10 +184,10 @@
     
     <item>
     <title>Pausing Monthly Read Posts</title>
-    <link>/posts/pausing-monthly-read-posts/</link>
+    <link>//localhost:1313/posts/pausing-monthly-read-posts/</link>
     <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/pausing-monthly-read-posts/</guid>
+    <guid>//localhost:1313/posts/pausing-monthly-read-posts/</guid>
     <description>
         &lt;p&gt;I tried to share the best of what I read each month through my previous posts. While it helped me to push myself write a post each month, it was coming in the way of meditating on what I read. I will try to write (reming me if I don’t) a post on what meditation on what you&amp;rsquo;ve read means, but it definitely does not mean completing your reading backlog for the sake of it. I will be pausing these monthly posts, and will instead try to share a list of interesting reads once I have meditated over them.&lt;/p&gt;
 
@@ -183,10 +196,10 @@
     
     <item>
     <title>ID by amoamo Breakdown</title>
-    <link>/posts/id-by-amo-amo-breakdown/</link>
+    <link>//localhost:1313/posts/id-by-amo-amo-breakdown/</link>
     <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/id-by-amo-amo-breakdown/</guid>
+    <guid>//localhost:1313/posts/id-by-amo-amo-breakdown/</guid>
     <description>
         &lt;p&gt;I’ve been keeping track of the new app in town ID by amoamo and found its onboarding and user experience really refreshing as compared to most other social media apps. I even Tweeted about it which was caught up by some of their team members.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This was quite innovative by &lt;a href=&#34;https://twitter.com/amoamoamo?ref_src=twsrc%5Etfw&#34;&gt;@amoamoamo&lt;/a&gt;  app. Explaining why you should invite your friends while humanising the experience . Felt refreshing &lt;a href=&#34;https://t.co/MqwuzeIwWF&#34;&gt;pic.twitter.com/MqwuzeIwWF&lt;/a&gt;&lt;/p&gt;&amp;mdash; @roohchill (@roohchill) &lt;a href=&#34;https://twitter.com/roohchill/status/1746512527213965704?ref_src=twsrc%5Etfw&#34;&gt;January 14, 2024&lt;/a&gt;&lt;/blockquote&gt;
@@ -207,10 +220,10 @@
     
     <item>
     <title>What I Read in January</title>
-    <link>/posts/what-i-read-in-january/</link>
+    <link>//localhost:1313/posts/what-i-read-in-january/</link>
     <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-january/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-january/</guid>
     <description>
         &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Posts&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -254,10 +267,10 @@
     
     <item>
     <title>Opportunity Spotters vs Squatters</title>
-    <link>/posts/opportuntiy-spotters-vs-squatters/</link>
+    <link>//localhost:1313/posts/opportuntiy-spotters-vs-squatters/</link>
     <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/opportuntiy-spotters-vs-squatters/</guid>
+    <guid>//localhost:1313/posts/opportuntiy-spotters-vs-squatters/</guid>
     <description>
         &lt;p&gt;In my experience working across various sectors and stages of startups, I’ve learned that successful companies need a balance of visionaries who can conceive new ideas and track industry trends, as well as doers who can execute these ideas. Have too many visionaries who think of imaginative ideas every hour, you’ll end up with a company that has a longer list of  ideas than the number of users for a long time. Conversely, a team dominated by executors might find itself fixated on a minor or irrelevant problem for an extended period.&lt;/p&gt;
 &lt;p&gt;Individuals typically possess innate skills that allow them to excel as either visionaries or executors. Recognizing one’s strengths is crucial. While opportunity spotters are indeed rare and often struggle with execution, over-indexing on them will adversely affect the company. A blend of both skill sets is essential. It’s challenging to find a Product Manager who excels equally in both areas. Opportunity spotting demands a free and creative mindset, distinct from the hyper-productive gurus on Twitter. One way could be to leverage your strengths while  addressing your weaknesses. If you’re an opportunity spotter, take the time to personally validate your ideas before delegating. If you’re an execution expert, occasionally step back to see the bigger picture. A team that combines these two types of individuals, supported by engineers and designers, is formidable. These roles should work together and appreciate each other’s strengths.&lt;/p&gt;
@@ -268,10 +281,10 @@
     
     <item>
     <title>Perplexity Initial Thoughts</title>
-    <link>/posts/perplexity-initial-thoughts/</link>
+    <link>//localhost:1313/posts/perplexity-initial-thoughts/</link>
     <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/perplexity-initial-thoughts/</guid>
+    <guid>//localhost:1313/posts/perplexity-initial-thoughts/</guid>
     <description>
         &lt;p&gt;I recently tried out the Perplexity app and was quite impressed with the results. While I’ve not spent enough time to come to a conclusion yet, what really delighted me was the time it took to answer my question. Searching through Perplextiy felt like speaking to a friend who knows what exactly you are looking for and spoon feeding the response.&lt;/p&gt;
 &lt;p&gt;I searched for &lt;em&gt;how should I select an uploaded image on Notability&lt;/em&gt; inside Perplexity &lt;em&gt;search&lt;/em&gt;. Without clicking a single link, Perplexity walked me through the image selection process whereas Google showed an answer to a different question altogether. Perplexity not only understood this simple question correctly, it shared a step by step process to resolve my query instead of an incorrect response as a summary. See screenshots below.&lt;/p&gt;
@@ -292,10 +305,10 @@
     
     <item>
     <title>On Writing Well and Writing More</title>
-    <link>/posts/on-writing-more/</link>
+    <link>//localhost:1313/posts/on-writing-more/</link>
     <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/on-writing-more/</guid>
+    <guid>//localhost:1313/posts/on-writing-more/</guid>
     <description>
         &lt;p&gt;I have written the most in 2023 as compared to the previous years. While I’m proud of my consistency in 2023, the journey from “On writing more” to “On writing well” is indeed a long one. My goal for 2024 is to improve the quality and depth of my writings. If my writing resonates with even just one person (apart from myself), helping them in their personal or professional journey, I&amp;rsquo;ll consider it a great achievement.&lt;/p&gt;
 
@@ -304,10 +317,10 @@
     
     <item>
     <title>What I Read in December</title>
-    <link>/posts/what-i-read-in-december/</link>
+    <link>//localhost:1313/posts/what-i-read-in-december/</link>
     <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-december/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-december/</guid>
     <description>
         &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Posts&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -345,10 +358,10 @@
     
     <item>
     <title>Truth Seekers Win</title>
-    <link>/posts/truth-seekers-win/</link>
+    <link>//localhost:1313/posts/truth-seekers-win/</link>
     <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/truth-seekers-win/</guid>
+    <guid>//localhost:1313/posts/truth-seekers-win/</guid>
     <description>
         &lt;p&gt;In a World full of influencers, and wannabe influencers begging for people&amp;rsquo;s attention (nothing wrong with that), I was questioning myself who wins in the long run. I am defining winning as companies that not only survive, but thrive for over atleast 5 - 10 decades.&lt;/p&gt;
 &lt;p&gt;Based on my conversation with multiple friends, I’ve observed that most early stage company founders&amp;rsquo;, employees&amp;rsquo; fall into the trap of celebrating milestones that do not contribute to revenue, or creating shareholder&amp;rsquo;s value. Especially for VC funded companies, a company needs to grow fast to give an exit to its early backers. It surprises me when people in the driving seat of the company push for reaching or celebrating milestones that have nothing to do with revenue growth. I do not know of any business that has survived over a decade and has not earned a substantial market share and revenue.&lt;/p&gt;
@@ -361,10 +374,10 @@
     
     <item>
     <title>Learnings from 2023</title>
-    <link>/posts/2023-learnings/</link>
+    <link>//localhost:1313/posts/2023-learnings/</link>
     <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/2023-learnings/</guid>
+    <guid>//localhost:1313/posts/2023-learnings/</guid>
     <description>
         &lt;p&gt;2023 has been a relatively good year for me as compared to 2022. As we step into 2024, I want to share some of the most impactful lessons I&amp;rsquo;ve learned, some of which date back even further.&lt;/p&gt;
 &lt;p&gt;1.&lt;strong&gt;Remove things as much as you can aka &lt;em&gt;focus is critical for success&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -402,10 +415,10 @@
     
     <item>
     <title>Starting up vs Formal Degree</title>
-    <link>/posts/start-ups-vs-degree/</link>
+    <link>//localhost:1313/posts/start-ups-vs-degree/</link>
     <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/start-ups-vs-degree/</guid>
+    <guid>//localhost:1313/posts/start-ups-vs-degree/</guid>
     <description>
         &lt;p&gt;Recently, I had this discussion with a friend that brought to light the old age dilemma: the choice between pursuing a college degree, and the path of entrepreneurship or joining an early-stage startup. Traditionally, society, &lt;strong&gt;including my own family&lt;/strong&gt;, has leaned heavily towards academic glory, valuing the potential for increased earnings and the prestige it brings. In contrast, the entrepreneurial route, while riskier and with uncertain success rates, offers great learning opportunities and a chance to go deep into the real-world challenges.&lt;/p&gt;
 &lt;p&gt;The odds of success increase when an entrepreneur targets a niche or a large &lt;strong&gt;growing&lt;/strong&gt; industry. In my experience, I would always prefer collaborating with someone who has hands-on experience in creating a product that resonates with customers within an industry, over someone who possesses theoretical knowledge gained through academic courses or degrees. Gaining deep industry insights is challenging, often not achievable without direct customer interaction and understanding their pain. An entrepreneur invests years in this process, unlike a university student whose focus is often on achieving a high GPA and creating a shiny CV (nothing bad about it).&lt;/p&gt;
@@ -417,10 +430,10 @@
     
     <item>
     <title>What I Read in November</title>
-    <link>/posts/what-i-read-in-november/</link>
+    <link>//localhost:1313/posts/what-i-read-in-november/</link>
     <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-november/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-november/</guid>
     <description>
         &lt;p&gt;After close to an year, I took a small break to visit my family. While I didn&amp;rsquo;t reach as much as I usually do, sharing what I did:&lt;/p&gt;
 &lt;h3 id=&#34;read&#34;&gt;
@@ -475,10 +488,10 @@
     
     <item>
     <title>What I Read in October</title>
-    <link>/posts/what-i-read-in-october/</link>
+    <link>//localhost:1313/posts/what-i-read-in-october/</link>
     <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-october/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-october/</guid>
     <description>
         &lt;p&gt;&lt;strong&gt;Reads&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -512,10 +525,10 @@
     
     <item>
     <title>I&#39;ve started shipping code</title>
-    <link>/posts/started-shipping-code/</link>
+    <link>//localhost:1313/posts/started-shipping-code/</link>
     <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/started-shipping-code/</guid>
+    <guid>//localhost:1313/posts/started-shipping-code/</guid>
     <description>
         &lt;p&gt;Not too long ago, I used to introduce myself as someone who didn&amp;rsquo;t write code. Well, things have changed! With the rise of AI, especially since the introduction of ChatGPT, I am absolutely amazed by the capabilities of AI in assisting me with coding and building projects. I had a strong desire to create my own website after successfully launching one using Jekyll in 2020, but I was struggling with customizing it to my liking. Scouring through endless Google search results was not only time-consuming but also incredibly frustrating. This led me to postpone working on my blog post, repeatedly putting it off until I had enough time to dedicate to it. But with the advent of ChatGPT, I came to a realization – I didn&amp;rsquo;t need more time; I simply needed to ask questions, and it would provide me with the precise answers I required to customize my blog post.&lt;/p&gt;
 &lt;p&gt;Since then, I&amp;rsquo;ve managed to complete two projects with the assistance of GPT, all while ensuring that I comprehend and can personally understand every code line of my projects. The first project I built this year was this very blog post, which demanded significant adjustments and customizations – tasks that would have taken me an incredibly long time in a world without GPT. Recently, I also successfully launched another application: a comprehensive quiz app built using JavaScript, HTML, and CSS. This app performs several functions:&lt;/p&gt;
@@ -536,10 +549,10 @@
     
     <item>
     <title>What I Read in September</title>
-    <link>/posts/what-i-read-in-september/</link>
+    <link>//localhost:1313/posts/what-i-read-in-september/</link>
     <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-september/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-september/</guid>
     <description>
         &lt;p&gt;&lt;strong&gt;Posts&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -565,10 +578,10 @@
     
     <item>
     <title>What I Read in August</title>
-    <link>/posts/what-i-read-in-august/</link>
+    <link>//localhost:1313/posts/what-i-read-in-august/</link>
     <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-august/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-august/</guid>
     <description>
         &lt;p&gt;&lt;strong&gt;Posts&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -595,10 +608,10 @@
     
     <item>
     <title>Why I was too early to Shark Tank?</title>
-    <link>/posts/shark-tank/</link>
+    <link>//localhost:1313/posts/shark-tank/</link>
     <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/shark-tank/</guid>
+    <guid>//localhost:1313/posts/shark-tank/</guid>
     <description>
         &lt;p&gt;In my final year of college, a friend recommended Shark Tank US to me, and from the moment I watched the first episode, I was completely hooked. I binge-watched the first 5 seasons that year and quickly caught up on the remaining ones.&lt;/p&gt;
 &lt;p&gt;During my final year internship in Mumbai, I couldn&amp;rsquo;t help but wonder why there wasn&amp;rsquo;t something like Shark Tank in India. With a population of over a billion, I was convinced that it could be a huge success. I&amp;rsquo;ve always been passionate about celebrating entrepreneurs and shifting the spotlight away from Bollywood stars. Visuals of Indian entrepreneurs pitching their ideas to Lakshmi Mittal kept me up at night. Determined to take action, I approached one of the popular Indian TV series directors via Facebook DM, and to my surprise, he responded after a few follow-ups. He invited us (my room mate joined me) to his flat in Mumbai, where I presented my idea of launching Shark Tank in India. My roommate also saw the potential and joined me. Looking back, our Prezi presentation was far from perfect, but we went ahead and pitched the idea to our potential business partner.&lt;/p&gt;
@@ -610,10 +623,10 @@
     
     <item>
     <title>What I Read in June and July</title>
-    <link>/posts/what-i-read-in-june-and-july/</link>
+    <link>//localhost:1313/posts/what-i-read-in-june-and-july/</link>
     <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-june-and-july/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-june-and-july/</guid>
     <description>
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.decentralised.co/p/after-the-merge&#34;&gt;After The Merge&lt;/a&gt;&lt;/li&gt;
@@ -638,10 +651,10 @@
     
     <item>
     <title>Why Talented Tech Players Need to Stay in the Game</title>
-    <link>/posts/why-talented-tech-players-need-to-stay-in-the-game/</link>
+    <link>//localhost:1313/posts/why-talented-tech-players-need-to-stay-in-the-game/</link>
     <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/why-talented-tech-players-need-to-stay-in-the-game/</guid>
+    <guid>//localhost:1313/posts/why-talented-tech-players-need-to-stay-in-the-game/</guid>
     <description>
         &lt;p&gt;Every week, big tech and startups produce something remarkable that takes everyone by surprise. These remarkable advancements quickly become the household talks and spark discussions among tech pundits who are eager to delve into the intricacies of these technologies and launches.&lt;/p&gt;
 &lt;p&gt;Back in 2006, when I was in 6th grade, I loved watching &lt;a href=&#34;https://www.bbc.co.uk/programmes/b007t9y1&#34;&gt;Match of The Day&lt;/a&gt;, a show where all football pundits got together and talked about managerial decisions, controversial moments in the game, and transfers. It&amp;rsquo;s fascinating to observe a similar phenomenon emerging within the realm of Big Tech and startups, albeit with different players and pundits.&lt;/p&gt;
@@ -672,10 +685,10 @@
     
     <item>
     <title>What I Read in May</title>
-    <link>/posts/what-i-read-in-may/</link>
+    <link>//localhost:1313/posts/what-i-read-in-may/</link>
     <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-i-read-in-may/</guid>
+    <guid>//localhost:1313/posts/what-i-read-in-may/</guid>
     <description>
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://messari.io/report/state-of-dao-funding&#34;&gt;State of DAO Funding&lt;/a&gt;&lt;/li&gt;
@@ -696,10 +709,10 @@
     
     <item>
     <title>What’s wrong with voting only decision making in DAO&#39;s</title>
-    <link>/posts/what-is-wrong-with-daos/</link>
+    <link>//localhost:1313/posts/what-is-wrong-with-daos/</link>
     <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-is-wrong-with-daos/</guid>
+    <guid>//localhost:1313/posts/what-is-wrong-with-daos/</guid>
     <description>
         &lt;p&gt;Grant programs are one of the best ways to attract high-quality contributors to your ecosystem. There&amp;rsquo;s no denying their potential impact. However, many ecosystems fail to realize that if not implemented well, these programs can lead to the loss of key contributors. In an attention scare World, where abundant opportunities exist, it is crucial for ecosystems to provide the best experience in order to attract and retain high-quality contributors. I&amp;rsquo;ve personally faced the following problems as a DAO contributor:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lack of Accountability&lt;/strong&gt;&lt;/p&gt;
@@ -726,10 +739,10 @@
     
     <item>
     <title>Deep Dives - Spotify</title>
-    <link>/posts/spotify-deep-dive/</link>
+    <link>//localhost:1313/posts/spotify-deep-dive/</link>
     <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/spotify-deep-dive/</guid>
+    <guid>//localhost:1313/posts/spotify-deep-dive/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://dabblish.substack.com/p/turn-up-the-music-spotifys-teardown&#34;&gt;Turn up the music - Spotify’s Teardown&lt;/a&gt;&lt;/p&gt;
 
@@ -738,10 +751,10 @@
     
     <item>
     <title>Deep Dives - Maker DAO</title>
-    <link>/posts/maker-dao-deep-dive/</link>
+    <link>//localhost:1313/posts/maker-dao-deep-dive/</link>
     <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/maker-dao-deep-dive/</guid>
+    <guid>//localhost:1313/posts/maker-dao-deep-dive/</guid>
     <description>
         &lt;p&gt;Maker DAO is a well-known protocol that has been a pioneer in the decentralized finance (DeFi) space. In 2021, Maker Foundation took a significant step towards decentralization by &lt;a href=&#34;https://blog.makerdao.com/the-maker-foundation-focuses-on-its-dissolution/&#34;&gt;dissolving itself&lt;/a&gt; and spinning up a DAO. As someone who has delved deep into the inner workings of Maker DAO over the past two weeks, I&amp;rsquo;ve gathered valuable insights and resources that will help anyone start contributing to Maker DAO.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Major Events&lt;/strong&gt;&lt;/p&gt;
@@ -829,10 +842,10 @@ Signal Requests are the most immediately powerful means of effecting change off-
     
     <item>
     <title>Balaji is right, but he may lose the bet</title>
-    <link>/posts/balaji-is-right-but-he-will-lose-the-bet-copy-2/</link>
+    <link>//localhost:1313/posts/balaji-is-right-but-he-will-lose-the-bet-copy-2/</link>
     <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
     
-    <guid>/posts/balaji-is-right-but-he-will-lose-the-bet-copy-2/</guid>
+    <guid>//localhost:1313/posts/balaji-is-right-but-he-will-lose-the-bet-copy-2/</guid>
     <description>
         &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I will take that bet.&lt;br&gt;You buy 1 BTC.&lt;br&gt;I will send $1M USD.&lt;br&gt;This is ~40:1 odds as 1 BTC is worth ~$26k.&lt;br&gt;The term is 90 days.&lt;br&gt;All we need is a mutually agreed custodian who will still be there to settle this in the event of digital dollar devaluation.&lt;br&gt;If someone knows how to do this… &lt;a href=&#34;https://t.co/hhPr522PQu&#34;&gt;https://t.co/hhPr522PQu&lt;/a&gt; &lt;a href=&#34;https://t.co/6Aav9KeJpe&#34;&gt;pic.twitter.com/6Aav9KeJpe&lt;/a&gt;&lt;/p&gt;&amp;mdash; Balaji (@balajis) &lt;a href=&#34;https://twitter.com/balajis/status/1636797265317867520?ref_src=twsrc%5Etfw&#34;&gt;March 17, 2023&lt;/a&gt;&lt;/blockquote&gt;
  &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -847,10 +860,10 @@ Signal Requests are the most immediately powerful means of effecting change off-
     
     <item>
     <title>Revamping My Blog Post Theme</title>
-    <link>/posts/revamping-my-blog-post-theme/</link>
+    <link>//localhost:1313/posts/revamping-my-blog-post-theme/</link>
     <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
     
-    <guid>/posts/revamping-my-blog-post-theme/</guid>
+    <guid>//localhost:1313/posts/revamping-my-blog-post-theme/</guid>
     <description>
         &lt;p&gt;I am currently working on migrating and enhancing my blog&amp;rsquo;s theme and will not be posting for sometime. I intent to start posting again next year and port all the previous posts as soon as the new theme design and migration is done. Till then, you can reach out to me on Twitter(pinned above) DM. Have a great year ahead! 🤝&lt;/p&gt;
 
@@ -859,10 +872,10 @@ Signal Requests are the most immediately powerful means of effecting change off-
     
     <item>
     <title>Personal OKRs 2022</title>
-    <link>/posts/personal-okrs-2022/</link>
+    <link>//localhost:1313/posts/personal-okrs-2022/</link>
     <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
     
-    <guid>/posts/personal-okrs-2022/</guid>
+    <guid>//localhost:1313/posts/personal-okrs-2022/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://axiomatic-diver-1c4.notion.site/6506f40d988e426590ee8abe5ae12bea?v=e5de44c28ea540f6a45c98fea43a80e3&#34; title=&#34;Personal OKRs 2022&#34;&gt;Personal OKRs 2022&lt;/a&gt;&lt;/p&gt;
 
@@ -871,10 +884,10 @@ Signal Requests are the most immediately powerful means of effecting change off-
     
     <item>
     <title>The Magic of Airdrops : Earn While Your Learn</title>
-    <link>/posts/the-magic-of-airdrops-earn-while-you-learn/</link>
+    <link>//localhost:1313/posts/the-magic-of-airdrops--earn-while-you-learn/</link>
     <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
     
-    <guid>/posts/the-magic-of-airdrops-earn-while-you-learn/</guid>
+    <guid>//localhost:1313/posts/the-magic-of-airdrops--earn-while-you-learn/</guid>
     <description>
         &lt;p&gt;Airdrops, in my opinion, are the fastest way to educate users about your product and get user adoption. For me, the starting point was ENS. Seeing my close friends earning ~ $10k through the ENS airdrop piqued my interest into ENS and that eventually led me to buying my own ENS domain.&lt;/p&gt;
 &lt;p&gt;Simply put, an airdrop is a distribution of a crypto token or coin, usually for free, to numerous wallet addresses. But it is not as trivial as it sounds. The caveat here is that an airdrop comes with the price. For one to be eligible for receiving an airdrop, one needs to use a protocol and interact with it in a manner prescribed by the protocol. Hence, as a user, you might end up spending at least the gas price in order to be eligible for a token airdrop. As I did not own an ENS domain when ENS announced the airdrop, I was not eligible for the same.&lt;/p&gt;
@@ -893,10 +906,10 @@ While I was initially hesitant spending $50 - $100 as gas fees to use a protocol
     
     <item>
     <title>Identify Your Echochamber</title>
-    <link>/posts/identify-your-echochamber/</link>
+    <link>//localhost:1313/posts/identify-your-echochamber/</link>
     <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/identify-your-echochamber/</guid>
+    <guid>//localhost:1313/posts/identify-your-echochamber/</guid>
     <description>
         &lt;p&gt;After 4 years, I have started using Social Media platforms again. While I had no difficulties posting (except stories on Instagram), there are certain observations and patterns that I have started to come across different social media platforms. Detailing them out here :&lt;/p&gt;
 &lt;p&gt;1.&lt;strong&gt;Twitter&lt;/strong&gt; Tagline from a user&amp;rsquo;s perspective : I am smart and &amp;ldquo;intellectual&amp;rdquo; as well. Please koi
@@ -915,10 +928,10 @@ Dubai. Mein bhi fake Picasso. Scrolling through some of the posts on Instagram i
     
     <item>
     <title>So You Want to Form New Habits?</title>
-    <link>/posts/so-you-want-to-form-new-habits/</link>
+    <link>//localhost:1313/posts/so-you-want-to-form-new-habits/</link>
     <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/so-you-want-to-form-new-habits/</guid>
+    <guid>//localhost:1313/posts/so-you-want-to-form-new-habits/</guid>
     <description>
         &lt;p&gt;Creating positive habits takes more than just willpower. It doesn&amp;rsquo;t happen by itself as it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your environment. Last year, I spent significant amount of time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.in/dp/B07R6VQBSZ/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&#34;&gt;1. Tiny Habits by BJ Fogg&lt;/a&gt;&lt;/p&gt;
@@ -991,10 +1004,10 @@ completion of a behaviour is often underestimated. A few examples would be setti
     
     <item>
     <title>What am I Reading These Days</title>
-    <link>/posts/what-am-i-reading-these-days/</link>
+    <link>//localhost:1313/posts/what-am-i-reading-these-days/</link>
     <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-am-i-reading-these-days/</guid>
+    <guid>//localhost:1313/posts/what-am-i-reading-these-days/</guid>
     <description>
         &lt;p&gt;With ~ 21 more books in the bag, the lockdown has turned out to be quite productive. Although I have tried to maintain variety in the kind of books and content that I read, a couple of books that have stood out for me are : Courage To Be Disliked by Ichiro Ishimi and Atomic Habits by James Clear. Going candid on this one:&lt;/p&gt;
 &lt;p&gt;Stating the names and description of the books that I liked and have read thus far:&lt;/p&gt;
@@ -1068,10 +1081,10 @@ tell you to do things that make others dislike you, but the fact that others dis
     
     <item>
     <title>Getting Your Time Back</title>
-    <link>/posts/getting-your-time-back/</link>
+    <link>//localhost:1313/posts/getting-your-time-back/</link>
     <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/getting-your-time-back/</guid>
+    <guid>//localhost:1313/posts/getting-your-time-back/</guid>
     <description>
         &lt;p&gt;A few things that I have started doing to get back my time:&lt;/p&gt;
 &lt;ul&gt;
@@ -1096,10 +1109,10 @@ hour just because the calendar invite was for one hour.&lt;/li&gt;
     
     <item>
     <title>Strong Opinions Loosely Held</title>
-    <link>/posts/strong-opinions-loosely-held-copy/</link>
+    <link>//localhost:1313/posts/strong-opinions-loosely-held-copy/</link>
     <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/strong-opinions-loosely-held-copy/</guid>
+    <guid>//localhost:1313/posts/strong-opinions-loosely-held-copy/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://bobsutton.typepad.com/my_weblog/2006/07/strong_opinions.html&#34;&gt;&amp;ldquo;Strong opinions, weakly held&amp;rdquo;&lt;/a&gt; is one of the frameworks used to deal with an uncertain future and yet, still move forward. It is one of the tools to become aware and have the courage to act on your knowledge, but also have the humility to doubt what we know. It is a framework that I use to prevent myself from seeing and hearing only the things that I like and discard others.&lt;/p&gt;
 &lt;ol&gt;
@@ -1161,10 +1174,10 @@ Believing that life is a single player game is okay, but having friends and rela
     
     <item>
     <title>Launching a Course on Venture Capital 101</title>
-    <link>/posts/a-course-on-venture-capital/</link>
+    <link>//localhost:1313/posts/a-course-on-venture-capital/</link>
     <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/a-course-on-venture-capital/</guid>
+    <guid>//localhost:1313/posts/a-course-on-venture-capital/</guid>
     <description>
         &lt;p&gt;&amp;ldquo;VC is a black box. It is a tightly knit community and this makes it really hard to know the inner workings of a VC fund. It is one thing to know about VC through blogs and books and another through a group of people who have been there, done that!&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;These are some of the most common remarks that I&amp;rsquo;ve come across when speaking to most folks who aspire to break into Venture capital. From those in B - schools to those working in corporates, getting into a Venture Capital firm seems a far fetched dream.&lt;/p&gt;
@@ -1178,10 +1191,10 @@ Believing that life is a single player game is okay, but having friends and rela
     
     <item>
     <title>Habit Stacking Tools</title>
-    <link>/posts/habit-stacking-tools/</link>
+    <link>//localhost:1313/posts/habit-stacking-tools/</link>
     <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/habit-stacking-tools/</guid>
+    <guid>//localhost:1313/posts/habit-stacking-tools/</guid>
     <description>
         &lt;p&gt;Some of my friends asked me to detail out the tools/platforms that I use to form and stick to my daily habits. Listing some of them down here :&lt;/p&gt;
 &lt;p&gt;A. &lt;strong&gt;Note - Taking&lt;/strong&gt;&lt;/p&gt;
@@ -1231,10 +1244,10 @@ Believing that life is a single player game is okay, but having friends and rela
     
     <item>
     <title>Personal OKRs 2021</title>
-    <link>/posts/personal-okrs-2021/</link>
+    <link>//localhost:1313/posts/personal-okrs-2021/</link>
     <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/personal-okrs-2021/</guid>
+    <guid>//localhost:1313/posts/personal-okrs-2021/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://axiomatic-diver-1c4.notion.site/e7ea574ebafd492fa927b9beb3256766?v=5627b3e927104714a69351d36e303194&#34; title=&#34;Personal OKRs 2021&#34;&gt;Personal OKRs 2021&lt;/a&gt;&lt;/p&gt;
 
@@ -1243,10 +1256,10 @@ Believing that life is a single player game is okay, but having friends and rela
     
     <item>
     <title>Everything is a Product</title>
-    <link>/posts/everything-is-a-product/</link>
+    <link>//localhost:1313/posts/everything-is-a-product/</link>
     <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/everything-is-a-product/</guid>
+    <guid>//localhost:1313/posts/everything-is-a-product/</guid>
     <description>
         &lt;p&gt;This realisation came to me after reading the biographies of Michael Jordan and Leonardo Da Vinci. Some of the VCs and Product Folks in Silicon Valley also subscribe to this thought. They treat themselves and their careers as that of professional athletes. According to them, the way you conduct yourself, the way you eat, your personal journal or as a matter of fact, your fingernails are nothing but mini - products. They see these attributes as features and a part of a bigger product i.e. themselves.&lt;/p&gt;
 &lt;p&gt;Stripe employees treat documentation as a part of their product development process.&lt;/p&gt;
@@ -1288,10 +1301,10 @@ Believing that life is a single player game is okay, but having friends and rela
     
     <item>
     <title>Delhi Rant</title>
-    <link>/posts/delhi-rant/</link>
+    <link>//localhost:1313/posts/delhi-rant/</link>
     <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/delhi-rant/</guid>
+    <guid>//localhost:1313/posts/delhi-rant/</guid>
     <description>
         &lt;p&gt;I’ve stayed in Delhi - NCR for ~ 1.5 years now (since September 2019) and came back to Delhi after 14 years (after 2005). Now that I look back, there are certain observations that worry me about Delhi - Gurgaon culture. Listing them down here :&lt;/p&gt;
 &lt;ol&gt;
@@ -1306,10 +1319,10 @@ Believing that life is a single player game is okay, but having friends and rela
     
     <item>
     <title>How to Build a Successful Consumer Brand in India?</title>
-    <link>/posts/how-to-build-a-successful-consumer-brand-in-india/</link>
+    <link>//localhost:1313/posts/how-to-build-a-successful-consumer-brand-in-india/</link>
     <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
     
-    <guid>/posts/how-to-build-a-successful-consumer-brand-in-india/</guid>
+    <guid>//localhost:1313/posts/how-to-build-a-successful-consumer-brand-in-india/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://firesideventures.com&#34;&gt;Fireside Ventures&lt;/a&gt; (a consumer focussed fund) closed their second fund worth $118 Million three days ago. This comes at a time when people in India (my parents included) are willing to try out new products and give challenger brands a try. As India&amp;rsquo;s retail market evolves, modern trade (likes of LeMarche) is set to account for 15% (from 8%) of the overall distribution whereas online retail is expected to account for 5% (currently at ~ 3%). A few questions that I had in mind while observing this upsurge were why now? What has changed? Why is it so easy to start a consumer brand? I read a number of reports and spoke to 60+ founders in my quest to find the answers. This blog post is to detail out my findings :&lt;/p&gt;
 &lt;p&gt;1.&lt;strong&gt;Rise of the &amp;lsquo;Millennials&amp;rsquo;&lt;/strong&gt;&lt;/p&gt;
@@ -1372,10 +1385,10 @@ Social Media! Nobody could have imagined getting such a loyal following and quan
     
     <item>
     <title>Getting Rich Without Getting Lucky</title>
-    <link>/posts/getting-rich-without-getting-lucky-copy-2/</link>
+    <link>//localhost:1313/posts/getting-rich-without-getting-lucky-copy-2/</link>
     <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/getting-rich-without-getting-lucky-copy-2/</guid>
+    <guid>//localhost:1313/posts/getting-rich-without-getting-lucky-copy-2/</guid>
     <description>
         &lt;p&gt;This is a summary of the framework used by Naval Ravikant to create order in chaos. Summarizing everything that I have learnt from his blogposts and podcasts:&lt;/p&gt;
 &lt;ol&gt;
@@ -1430,10 +1443,10 @@ hourly rate, ignore it. If outsourcing a task will cost less than your hourly ra
     
     <item>
     <title>Best of Masters of Scale</title>
-    <link>/posts/best-of-masters-of-scale/</link>
+    <link>//localhost:1313/posts/best-of-masters-of-scale/</link>
     <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/best-of-masters-of-scale/</guid>
+    <guid>//localhost:1313/posts/best-of-masters-of-scale/</guid>
     <description>
         &lt;p&gt;Below is the list of podcasts from Masters of Scale series that I found the most engaging and insightful. I finished listening to all its episodes last year. This is for those who are short on time and wondering where to start.&lt;/p&gt;
 &lt;ol&gt;
@@ -1463,10 +1476,10 @@ hourly rate, ignore it. If outsourcing a task will cost less than your hourly ra
     
     <item>
     <title>Speed Reading</title>
-    <link>/posts/speed-reading/</link>
+    <link>//localhost:1313/posts/speed-reading/</link>
     <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/speed-reading/</guid>
+    <guid>//localhost:1313/posts/speed-reading/</guid>
     <description>
         &lt;p&gt;Back in January, 2019, I came across a technique called “Speed Reading” on one of Tim Ferris’ videos. I was so intrigued by it that not only did I start “reading about speed reading” a lot, I also started practicing the same tirelessly. Since then, I have almost doubled my reading speed with increased retention and have started to summarise all the books that I read on Evernote (Will share them all and make it accessible to everyone by the end of this year). The next question that should come to your mind is what the hell is “speed reading” and how do I use it to increase my reading speed?&lt;/p&gt;
 &lt;p&gt;Let us get ourselves acquainted with a few terminologies to get started and know more:&lt;/p&gt;
@@ -1514,10 +1527,10 @@ hourly rate, ignore it. If outsourcing a task will cost less than your hourly ra
     
     <item>
     <title>What is your superpower?</title>
-    <link>/posts/what-is-your-superpower-copy-2/</link>
+    <link>//localhost:1313/posts/what-is-your-superpower-copy-2/</link>
     <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/what-is-your-superpower-copy-2/</guid>
+    <guid>//localhost:1313/posts/what-is-your-superpower-copy-2/</guid>
     <description>
         &lt;p&gt;&lt;img loading=&#34;lazy&#34; 
     src=&#34;https://manassaloi.com/assets/img/no_filter.png&#34; 
@@ -1544,10 +1557,10 @@ rather than just a number)&lt;/li&gt;
     
     <item>
     <title>Seek to Understand Before Trying to be Understood</title>
-    <link>/posts/seek-to-understand-before-trying-to-be-understood/</link>
+    <link>//localhost:1313/posts/seek-to-understand-before-trying-to-be-understood/</link>
     <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/seek-to-understand-before-trying-to-be-understood/</guid>
+    <guid>//localhost:1313/posts/seek-to-understand-before-trying-to-be-understood/</guid>
     <description>
         &lt;p&gt;People are just either not that interested in what you&amp;rsquo;re saying, or they are too focused on their own agenda. It&amp;rsquo;s ridiculous to see two people acting like they can’t really hear each other — by choice.&lt;/p&gt;
 &lt;p&gt;In &amp;ldquo;The Significance Principle,&amp;rdquo; authors Les Carter and Jim Underwood posit that we should listen past where the other person has finished. We should even pause before answering. Let them get their point, their story, their compliment, and even their criticism out. Completely.&lt;/p&gt;
@@ -1570,10 +1583,10 @@ Seeking real understanding affirms the other person and what they have to say. T
     
     <item>
     <title>Thinking in Pomodoros</title>
-    <link>/posts/thinking-in-pomodoros-copy/</link>
+    <link>//localhost:1313/posts/thinking-in-pomodoros-copy/</link>
     <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/thinking-in-pomodoros-copy/</guid>
+    <guid>//localhost:1313/posts/thinking-in-pomodoros-copy/</guid>
     <description>
         &lt;p&gt;Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference :&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Old Me&lt;/strong&gt;&lt;/p&gt;
@@ -1599,10 +1612,10 @@ Seeking real understanding affirms the other person and what they have to say. T
     
     <item>
     <title>Differentiating Yourself Through Social Media</title>
-    <link>/posts/differeniating-yourself-through-social-media-copy/</link>
+    <link>//localhost:1313/posts/differeniating-yourself-through-social-media-copy/</link>
     <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/differeniating-yourself-through-social-media-copy/</guid>
+    <guid>//localhost:1313/posts/differeniating-yourself-through-social-media-copy/</guid>
     <description>
         &lt;p&gt;Increasing number of users are spending their time online and are using social media tools to express themselves. Amidst this, can the activities (posts/likes/comments) performed by people on social media be used to hire candidates for different job profiles? I see this as a great way to differentiate candidates from others in cases where they have similar educational backgrounds, skill sets, and resumes.&lt;/p&gt;
 &lt;p&gt;We put ourselves out there whenever we post something, like/comment on a post, or update our Goodreads account with the latest book that we’ve read. Every activity that we perform online conveys some or the other aspect about us. I feel that the reliance on social media to filter applicants will increase with time and will be used to differentiate similar candidates, especially to determine cultural fit (something on the lines of Klout Score, but more focussed towards determining cultural fit instead of influence) . Not limiting to jobs, activities on social media will also be used to filter university applications.&lt;/p&gt;
@@ -1621,10 +1634,10 @@ Seeking real understanding affirms the other person and what they have to say. T
     
     <item>
     <title>Personal OKRs 2020</title>
-    <link>/posts/personal-okrs-2020-/</link>
+    <link>//localhost:1313/posts/personal-okrs-2020-/</link>
     <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
     
-    <guid>/posts/personal-okrs-2020-/</guid>
+    <guid>//localhost:1313/posts/personal-okrs-2020-/</guid>
     <description>
         &lt;p&gt;&lt;a href=&#34;https://axiomatic-diver-1c4.notion.site/3acaabebd8e04c899e32b9da6c0a5e76?v=0510c7d736ef4aba9a6cd2e0c52e2c5a&#34; title=&#34;Personl OKRs 2020&#34;&gt;Personal OKRs 2020&lt;/a&gt;&lt;/p&gt;
 

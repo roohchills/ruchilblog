@@ -2,29 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on Ruchil Sharma</title>
-    <link>/tags/education/</link>
+    <link>//localhost:1313/tags/education/</link>
     <description>Recent content in Education on Ruchil Sharma</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So you want to setup your own blog</title>
-      <link>/posts/so-you-want-to-setup-your-own-blog/</link>
+      <link>//localhost:1313/posts/so-you-want-to-setup-your-own-blog/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/so-you-want-to-setup-your-own-blog/</guid>
-      <description>If a cool blogpost template is stopping you from writing more, the problem is most definitely not that cool template. Writing more requires writing a lot in the initial phases. Same goes with writing well. It&amp;rsquo;s about turning on your mental faucet to let the ideas flow freely, which in turn, leads to quality content. If you really think a cool blog website will help you cross your motivation barrier and push you to start writing more, then maybe this post can help.</description>
+      <guid>//localhost:1313/posts/so-you-want-to-setup-your-own-blog/</guid>
+      <description>&lt;p&gt;If a cool blogpost template is stopping you from writing more, the problem is most definitely not that cool template. Writing more requires writing a lot in the initial phases. Same goes with writing well. It&amp;rsquo;s about turning on your mental faucet to let the ideas flow freely, which in turn, leads to quality content. If you really think a cool blog website will help you cross your motivation barrier and push you to start writing more, then maybe this post can help. I greatly admire &lt;a href=&#34;https://tomtunguz.com/&#34;&gt;Tomasz Tunguz’s&lt;/a&gt; writings , and my website draws inspiration from his. Here&amp;rsquo;s a breakdown of how I launched my blog:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Launching a Course on Venture Capital 101</title>
-      <link>/posts/a-course-on-venture-capital/</link>
+      <link>//localhost:1313/posts/a-course-on-venture-capital/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/a-course-on-venture-capital/</guid>
-      <description>&amp;ldquo;VC is a black box. It is a tightly knit community and this makes it really hard to know the inner workings of a VC fund. It is one thing to know about VC through blogs and books and another through a group of people who have been there, done that!&amp;rdquo;
-These are some of the most common remarks that I&amp;rsquo;ve come across when speaking to most folks who aspire to break into Venture capital.</description>
+      <guid>//localhost:1313/posts/a-course-on-venture-capital/</guid>
+      <description>&lt;p&gt;&amp;ldquo;VC is a black box. It is a tightly knit community and this makes it really hard to know the inner workings of a VC fund. It is one thing to know about VC through blogs and books and another through a group of people who have been there, done that!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;These are some of the most common remarks that I&amp;rsquo;ve come across when speaking to most folks who aspire to break into Venture capital. From those in B - schools to those working in corporates, getting into a Venture Capital firm seems a far fetched dream.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

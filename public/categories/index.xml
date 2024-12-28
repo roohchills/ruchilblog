@@ -2,136 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ruchil Sharma</title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Ruchil Sharma</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>/categories/notes/</link>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/notes/</guid>
+      <link>//localhost:1313/categories/notes/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/notes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Deep Dives</title>
-      <link>/categories/deep-dives/</link>
+      <link>//localhost:1313/categories/deep-dives/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-dives/</guid>
+      <guid>//localhost:1313/categories/deep-dives/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Education</title>
-      <link>/categories/education/</link>
+      <link>//localhost:1313/categories/education/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/education/</guid>
+      <guid>//localhost:1313/categories/education/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Business</title>
-      <link>/categories/business/</link>
+      <link>//localhost:1313/categories/business/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/business/</guid>
+      <guid>//localhost:1313/categories/business/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web3</title>
-      <link>/categories/web3/</link>
+      <link>//localhost:1313/categories/web3/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/web3/</guid>
+      <guid>//localhost:1313/categories/web3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Recommendations</title>
-      <link>/categories/recommendations/</link>
+      <link>//localhost:1313/categories/recommendations/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/recommendations/</guid>
+      <guid>//localhost:1313/categories/recommendations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Updates</title>
-      <link>/categories/updates/</link>
+      <link>//localhost:1313/categories/updates/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/updates/</guid>
+      <guid>//localhost:1313/categories/updates/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AI</title>
-      <link>/categories/ai/</link>
+      <link>//localhost:1313/categories/ai/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ai/</guid>
+      <guid>//localhost:1313/categories/ai/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Career</title>
-      <link>/categories/career/</link>
+      <link>//localhost:1313/categories/career/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/career/</guid>
+      <guid>//localhost:1313/categories/career/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Projects</title>
-      <link>/categories/projects/</link>
+      <link>//localhost:1313/categories/projects/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/projects/</guid>
+      <guid>//localhost:1313/categories/projects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Productivity</title>
-      <link>/categories/productivity/</link>
+      <link>//localhost:1313/categories/productivity/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/productivity/</guid>
+      <guid>//localhost:1313/categories/productivity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reading</title>
-      <link>/categories/reading/</link>
+      <link>//localhost:1313/categories/reading/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/reading/</guid>
+      <guid>//localhost:1313/categories/reading/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Industry Insights</title>
-      <link>/categories/industry-insights/</link>
+      <link>//localhost:1313/categories/industry-insights/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/industry-insights/</guid>
+      <guid>//localhost:1313/categories/industry-insights/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Summary</title>
-      <link>/categories/summary/</link>
+      <link>//localhost:1313/categories/summary/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/summary/</guid>
+      <guid>//localhost:1313/categories/summary/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
