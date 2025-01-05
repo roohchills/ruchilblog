@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ruchil Sharma</title>
-    <link>//localhost:1313/tags/projects/</link>
+    <link>/tags/projects/</link>
     <description>Recent content in Projects on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I&#39;ve started shipping code</title>
-      <link>//localhost:1313/posts/started-shipping-code/</link>
+      <title>I&#39;ve Started Shipping Code</title>
+      <link>/posts/ive-started-shipping-code/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/started-shipping-code/</guid>
-      <description>&lt;p&gt;Not too long ago, I used to introduce myself as someone who didn&amp;rsquo;t write code. Well, things have changed! With the rise of AI, especially since the introduction of ChatGPT, I am absolutely amazed by the capabilities of AI in assisting me with coding and building projects. I had a strong desire to create my own website after successfully launching one using Jekyll in 2020, but I was struggling with customizing it to my liking. Scouring through endless Google search results was not only time-consuming but also incredibly frustrating. This led me to postpone working on my blog post, repeatedly putting it off until I had enough time to dedicate to it. But with the advent of ChatGPT, I came to a realization – I didn&amp;rsquo;t need more time; I simply needed to ask questions, and it would provide me with the precise answers I required to customize my blog post.&lt;/p&gt;</description>
+      <guid>/posts/ive-started-shipping-code/</guid>
+      <description>&lt;h3 id=&#34;ive-started-shipping-codeoctober-2-2023-2-minutes-projectshttpswwwruchilsharmacomcategoriesprojects&#34;&gt;&#xA;    &lt;a href=&#34;#ive-started-shipping-codeoctober-2-2023-2-minutes-projectshttpswwwruchilsharmacomcategoriesprojects&#34; class=&#34;anchor&#34;&gt;&#xA;        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;&#xA;            &lt;path fill-rule=&#34;evenodd&#34;&#xA;                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;&#xA;            &lt;/path&gt;&#xA;        &lt;/svg&gt;&#xA;    &lt;/a&gt;&#xA;    &lt;strong&gt;I&amp;rsquo;ve started shipping code&lt;/strong&gt;October 2, 2023 | 2 minutes | &lt;a href=&#34;https://www.ruchilsharma.com/categories/projects&#34;&gt;Projects&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Not too long ago, I used to introduce myself as someone who didn’t write code. Well, things have changed! With the rise of AI, especially since the introduction of ChatGPT, I am absolutely amazed by the capabilities of AI in assisting me with coding and building projects. I had a strong desire to create my own website after successfully launching one using Jekyll in 2020, but I was struggling with customizing it to my liking. Scouring through endless Google search results was not only time-consuming but also incredibly frustrating. This led me to postpone working on my blog post, repeatedly putting it off until I had enough time to dedicate to it. But with the advent of ChatGPT, I came to a realization – I didn’t need more time; I simply needed to ask questions, and it would provide me with the precise answers I required to customize my blog post.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

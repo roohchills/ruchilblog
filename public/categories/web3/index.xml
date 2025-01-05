@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web3 on Ruchil Sharma</title>
-    <link>//localhost:1313/categories/web3/</link>
+    <link>/categories/web3/</link>
     <description>Recent content in Web3 on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/web3/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reddit May Define the Future of IPOs</title>
-      <link>//localhost:1313/posts/reddit_ipo/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/reddit_ipo/</guid>
-      <description>&lt;p&gt;Reddit, founded in 2005, has filed for an IPO. If you missed out on other indicators of this bull market, this is definitely one of the most glaring ones. Markets have opened up, tech stocks and top crypto tokens such as Bitcoin and Ethereum are ripping. But there’s one thing special about Reddit IPO’s that is not talked about enough - stock allocation to it users&lt;/p&gt;&#xA;&lt;p&gt;From &lt;a href=&#34;https://stratechery.com/2024/reddit-s-1-reddits-prospects-reddit-grows-up/&#34;&gt;Stratechery&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; &#xA;    src=&#34;https://axiomatic-diver-1c4.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc6a62786-f859-45a8-8419-fae4370cf6f4%2F017ae6ec-30ca-467b-aa86-513aff84c359%2FIMG_0224.jpeg?table=block&amp;amp;id=17423d13-e6cf-44e6-ab6e-3ce885f444f8&amp;amp;spaceId=c6a62786-f859-45a8-8419-fae4370cf6f4&amp;amp;width=2000&amp;amp;userId=&amp;amp;cache=v2&#34; &#xA;    alt=&#34;img&#34; &#xA;     /&gt;&lt;/p&gt;&#xA;&lt;p&gt;Airdrops and token allocation for community members is very common in the Web3 universe, but users of a web2 platform getting a stock allocation for their contributions is unheard of in the Web 2 World. I find this decision taken by the Reddit founders really fascinating! It may well define how IPOs are announced from this point onwards and a way for Web 2 companies to earn user trust.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/web3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What’s wrong with voting only decision making in DAO&#39;s</title>
-      <link>//localhost:1313/posts/what-is-wrong-with-daos/</link>
+      <link>/posts/whats-wrong-with-voting-only-decision-making-in-daos/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/what-is-wrong-with-daos/</guid>
-      <description>&lt;p&gt;Grant programs are one of the best ways to attract high-quality contributors to your ecosystem. There&amp;rsquo;s no denying their potential impact. However, many ecosystems fail to realize that if not implemented well, these programs can lead to the loss of key contributors. In an attention scare World, where abundant opportunities exist, it is crucial for ecosystems to provide the best experience in order to attract and retain high-quality contributors. I&amp;rsquo;ve personally faced the following problems as a DAO contributor:&lt;/p&gt;</description>
+      <guid>/posts/whats-wrong-with-voting-only-decision-making-in-daos/</guid>
+      <description>&lt;p&gt;Grant programs are one of the best ways to attract high-quality contributors to your ecosystem. There’s no denying their potential impact. However, many ecosystems fail to realize that if not implemented well, these programs can lead to the loss of key contributors. In an attention scare World, where abundant opportunities exist, it is crucial for ecosystems to provide the best experience in order to attract and retain high-quality contributors. I’ve personally faced the following problems as a DAO contributor:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep Dives - Maker DAO</title>
-      <link>//localhost:1313/posts/maker-dao-deep-dive/</link>
+      <link>/posts/deep-dives---maker-dao-copy/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/maker-dao-deep-dive/</guid>
-      <description>&lt;p&gt;Maker DAO is a well-known protocol that has been a pioneer in the decentralized finance (DeFi) space. In 2021, Maker Foundation took a significant step towards decentralization by &lt;a href=&#34;https://blog.makerdao.com/the-maker-foundation-focuses-on-its-dissolution/&#34;&gt;dissolving itself&lt;/a&gt; and spinning up a DAO. As someone who has delved deep into the inner workings of Maker DAO over the past two weeks, I&amp;rsquo;ve gathered valuable insights and resources that will help anyone start contributing to Maker DAO.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Major Events&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456&#34;&gt;The End Game Proposal&lt;/a&gt; - Last year, Rune Christensen, the founder of Maker DAO, put forth a proposal that outlined the constitution and end game for Maker DAO. This proposal aimed to streamline the governance structure and achieve true decentralization. This proposal has been considered one of the &lt;a href=&#34;https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown&#34;&gt;largest restructurings in its history&lt;/a&gt; and the proposal has passed with significant support.&lt;/p&gt;</description>
+      <guid>/posts/deep-dives---maker-dao-copy/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dabblish.substack.com/p/deep-dives-maker-dao&#34;&gt;Deep Dives - Maker DAO&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Dives - Spotify</title>
+      <link>/posts/deep-dives---spotify/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/deep-dives---spotify/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dabblish.substack.com/p/turn-up-the-music-spotifys-teardown&#34;&gt;Deep Dives - Spotify&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Magic of Airdrops : Earn While Your Learn</title>
-      <link>//localhost:1313/posts/the-magic-of-airdrops--earn-while-you-learn/</link>
+      <link>/posts/the-magic-of-airdrops--earn-while-your-learn/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/the-magic-of-airdrops--earn-while-you-learn/</guid>
+      <guid>/posts/the-magic-of-airdrops--earn-while-your-learn/</guid>
       <description>&lt;p&gt;Airdrops, in my opinion, are the fastest way to educate users about your product and get user adoption. For me, the starting point was ENS. Seeing my close friends earning ~ $10k through the ENS airdrop piqued my interest into ENS and that eventually led me to buying my own ENS domain.&lt;/p&gt;&#xA;&lt;p&gt;Simply put, an airdrop is a distribution of a crypto token or coin, usually for free, to numerous wallet addresses. But it is not as trivial as it sounds. The caveat here is that an airdrop comes with the price. For one to be eligible for receiving an airdrop, one needs to use a protocol and interact with it in a manner prescribed by the protocol. Hence, as a user, you might end up spending at least the gas price in order to be eligible for a token airdrop. As I did not own an ENS domain when ENS announced the airdrop, I was not eligible for the same.&lt;/p&gt;</description>
     </item>
   </channel>

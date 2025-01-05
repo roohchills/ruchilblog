@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Ruchil Sharma</title>
-    <link>//localhost:1313/tags/updates/</link>
+    <link>/tags/updates/</link>
     <description>Recent content in Updates on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pausing Monthly Read Posts</title>
-      <link>//localhost:1313/posts/pausing-monthly-read-posts/</link>
+      <title>Pausing Monthly Reads</title>
+      <link>/posts/pausing-monthy-reads/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/pausing-monthly-read-posts/</guid>
-      <description>&lt;p&gt;I tried to share the best of what I read each month through my previous posts. While it helped me to push myself write a post each month, it was coming in the way of meditating on what I read. I will try to write (reming me if I don’t) a post on what meditation on what you&amp;rsquo;ve read means, but it definitely does not mean completing your reading backlog for the sake of it. I will be pausing these monthly posts, and will instead try to share a list of interesting reads once I have meditated over them.&lt;/p&gt;</description>
+      <guid>/posts/pausing-monthy-reads/</guid>
+      <description>&lt;p&gt;I tried to share the best of what I read each month through my previous posts. While it helped me to push myself write a post each month, it was coming in the way of meditating on what I read. I will try to write (reming me if I don’t) a post on what meditation on what you’ve read means, but it definitely does not mean completing your reading backlog for the sake of it. I will be pausing these monthly posts, and will instead try to share a list of interesting reads once I have meditated over them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

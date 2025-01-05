@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Industry Insights on Ruchil Sharma</title>
-    <link>//localhost:1313/tags/industry-insights/</link>
+    <link>/tags/industry-insights/</link>
     <description>Recent content in Industry Insights on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/industry-insights/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/industry-insights/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Build a Successful Consumer Brand in India?</title>
-      <link>//localhost:1313/posts/how-to-build-a-successful-consumer-brand-in-india/</link>
+      <title>What Does It Take to Build a Successful Consumer Brand in India?</title>
+      <link>/posts/what-does-it-take-to-build-a-successful-consumer-brand-in-india/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/how-to-build-a-successful-consumer-brand-in-india/</guid>
+      <guid>/posts/what-does-it-take-to-build-a-successful-consumer-brand-in-india/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://firesideventures.com&#34;&gt;Fireside Ventures&lt;/a&gt; (a consumer focussed fund) closed their second fund worth $118 Million three days ago. This comes at a time when people in India (my parents included) are willing to try out new products and give challenger brands a try. As India&amp;rsquo;s retail market evolves, modern trade (likes of LeMarche) is set to account for 15% (from 8%) of the overall distribution whereas online retail is expected to account for 5% (currently at ~ 3%). A few questions that I had in mind while observing this upsurge were why now? What has changed? Why is it so easy to start a consumer brand? I read a number of reports and spoke to 60+ founders in my quest to find the answers. This blog post is to detail out my findings :&lt;/p&gt;</description>
     </item>
   </channel>
