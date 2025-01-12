@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Ruchil Sharma</title>
-    <link>//localhost:1313/tags/ai/</link>
+    <link>/tags/ai/</link>
     <description>Recent content in AI on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perplexity Initial Thoughts</title>
-      <link>//localhost:1313/posts/perplexity-initial-thoughts/</link>
+      <link>/posts/perplexity-initial-thoughts/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/perplexity-initial-thoughts/</guid>
+      <guid>/posts/perplexity-initial-thoughts/</guid>
       <description>&lt;p&gt;I recently tried out the Perplexity app and was quite impressed with the results. While I’ve not spent enough time to come to a conclusion yet, what really delighted me was the time it took to answer my question. Searching through Perplextiy felt like speaking to a friend who knows what exactly you are looking for and spoon feeding the response.&lt;/p&gt;&#xA;&lt;p&gt;I searched for &lt;em&gt;how should I select an uploaded image on Notability&lt;/em&gt; inside Perplexity &lt;em&gt;search&lt;/em&gt;. Without clicking a single link, Perplexity walked me through the image selection process whereas Google showed an answer to a different question altogether. Perplexity not only understood this simple question correctly, it shared a step by step process to resolve my query instead of an incorrect response as a summary. See screenshots below.&lt;/p&gt;</description>
     </item>
   </channel>
