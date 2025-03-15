@@ -6,8 +6,15 @@
     <description>Recent content in AI on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dabbling with AI</title>
+      <link>/posts/dabbling-with-ai/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/dabbling-with-ai/</guid>
+      <description>&lt;p&gt;A friend and I have started building AI products on the weekends to get used to the latest AI tools and their capabilities. Even though we’re just a few weeks into this (while also managing our day jobs), I’m really impressed by how advanced these tools are. Back in 2019, I dreamed of building products on my own, without relying on developers. Thanks to ser Musk and Altman, that dream is now a reality. I no longer need developers or even designers to launch the first version.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Perplexity Initial Thoughts</title>
       <link>/posts/perplexity-initial-thoughts/</link>
