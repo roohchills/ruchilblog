@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on Ruchil Sharma</title>
+    <link>/categories/strategy/</link>
+    <description>Recent content in Strategy on Ruchil Sharma</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/strategy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting Relationship Between Ad Prices and Ad Inventory</title>
+      <link>/posts/2025-6-meta-ads/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/2025-6-meta-ads/</guid>
+      <description>&lt;p&gt;This has been noted in Meta’s earnings and in several prominent tech blogs, but I find it a particularly fascinating observation. Contrary to intuition, ad impressions and price-per-ad move in opposite directions. See chart below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; &#xA;    src=&#34;https://axiomatic-diver-1c4.notion.site/image/attachment%3A362742f3-caa8-48ca-ac17-67727ed43be7%3AScreenshot_2025-05-11_at_3.08.35_PM.png?table=block&amp;amp;id=1f08b13c-4f08-8093-a431-c74ae0632451&amp;amp;spaceId=c6a62786-f859-45a8-8419-fae4370cf6f4&amp;amp;width=1420&amp;amp;userId=&amp;amp;cache=v2&#34; &#xA;    alt=&#34;image&#34; &#xA;     /&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Impressions vs. Price-Per-Ad: When Meta  increases ad inventory (e.g. by monetizing a new surface like Stories or Reels), impressions go up, but price-per-ad tends to drop due to greater supply.&lt;/li&gt;&#xA;&lt;li&gt;Conversely, when surfaces saturate (like Reels today), impression growth slows and Meta relies on price-per-ad increases for revenue growth. This introduces long term revenue related risks for Meta.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Meta’s playbook then hinges on continually introducing new ad surfaces that can fuel impression growth before monetization peaks. How Meta unlocks the next wave is the big question. Its bets on AR glasses and VR may be the next frontier.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

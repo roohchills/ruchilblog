@@ -5,7 +5,28 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Interesting Relationship Between Ad Prices and Ad Inventory</title>
+    <link>/posts/2025-6-meta-ads/</link>
+    <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/2025-6-meta-ads/</guid>
+    <description>
+        &lt;p&gt;This has been noted in Meta’s earnings and in several prominent tech blogs, but I find it a particularly fascinating observation. Contrary to intuition, ad impressions and price-per-ad move in opposite directions. See chart below.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://axiomatic-diver-1c4.notion.site/image/attachment%3A362742f3-caa8-48ca-ac17-67727ed43be7%3AScreenshot_2025-05-11_at_3.08.35_PM.png?table=block&amp;amp;id=1f08b13c-4f08-8093-a431-c74ae0632451&amp;amp;spaceId=c6a62786-f859-45a8-8419-fae4370cf6f4&amp;amp;width=1420&amp;amp;userId=&amp;amp;cache=v2&#34; 
+    alt=&#34;image&#34; 
+     /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Impressions vs. Price-Per-Ad: When Meta  increases ad inventory (e.g. by monetizing a new surface like Stories or Reels), impressions go up, but price-per-ad tends to drop due to greater supply.&lt;/li&gt;
+&lt;li&gt;Conversely, when surfaces saturate (like Reels today), impression growth slows and Meta relies on price-per-ad increases for revenue growth. This introduces long term revenue related risks for Meta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meta’s playbook then hinges on continually introducing new ad surfaces that can fuel impression growth before monetization peaks. How Meta unlocks the next wave is the big question. Its bets on AR glasses and VR may be the next frontier.&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>The Book I Keep Coming Back To</title>
     <link>/posts/scott-adams---book-summary/</link>

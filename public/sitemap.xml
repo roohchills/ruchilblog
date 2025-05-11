@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/2025-6-meta-ads/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/strategy/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/strategy/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-05-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/books/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/books/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/scott-adams---book-summary/</loc>
