@@ -6,12 +6,19 @@
     <description>Recent content in Tags on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/ai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Notes</title>
       <link>/tags/notes/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/tags/notes/</guid>
       <description></description>
     </item>
@@ -27,13 +34,6 @@
       <link>/tags/books/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/tags/books/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>/tags/ai/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +90,6 @@
       <link>/tags/deep-dives/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       <guid>/tags/deep-dives/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Update</title>
-      <link>/tags/update/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/update/</guid>
       <description></description>
     </item>
     <item>
