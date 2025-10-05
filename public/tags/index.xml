@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>/tags/ai/</link>
-      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/ai/</guid>
+      <title>Health</title>
+      <link>/tags/health/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
       <link>/tags/notes/</link>
-      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
       <guid>/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     <item>

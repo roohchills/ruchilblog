@@ -2,34 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/redbulls-to-protein-shake/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/health/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/health/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/notes/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/the-slow-death-of-trust/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/ai/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/ai/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/is-chatgpt-the-new-twitter/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/meaning-of-money/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/notes/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/mindset-is-everything/</loc>
