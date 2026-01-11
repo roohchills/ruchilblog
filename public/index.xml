@@ -5,7 +5,75 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Narrative Capitalism </title>
+    <link>/posts/2026---1---narrative-capitalism/</link>
+    <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/2026---1---narrative-capitalism/</guid>
+    <description>
+        &lt;p&gt;Increasingly, high-quality narratives are shaping what people choose to believe. I was fascinated by a point made by &lt;a href=&#34;https://www.wlessin.com/&#34;&gt;Sam Lessin&lt;/a&gt;, where he described how entrepreneurs today are raising billions of $ by getting investors onboard and even public markets to place bids on their narratives, regardless of whether those narratives ultimately turn out to be true.&lt;/p&gt;
+&lt;p&gt;A history of tangible output  allows founders to command a premium on narrative-based valuations. Elon has delivered across multiple ambitious narratives electric vehicles, Neuralink, and space exploration. As a result, SpaceX benefits from a massive trust multiplier (with valuation projections nearing ~$1.5T), largely driven by Elon’s credibility.&lt;/p&gt;
+&lt;p&gt;In contrast, narratives multipliers can also collapse entirely in case of fraud or no output. Elizabeth Holmes and Sam Bankman Fried both lost their narrative premium when they failed to match their promises. Once trust breaks, the multiplier tends to zero. Elon’s trust multiplier, on the other hand, continues to expand with every launch.&lt;/p&gt;
+&lt;p&gt;This  creates a narrative valuation flywheel. Even partial output (as little as 20 cents on the dollar) can keep the flywheel going. A stronger narrative from a trusted founder attracts more capital, which then fuels an even stronger narrative, either within the same industry or across entirely new ones.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Working at Big Tech vs Little Tech vs The Government</title>
+    <link>/posts/2026---1---big-tech-vs-little-tech-vs-government/</link>
+    <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/2026---1---big-tech-vs-little-tech-vs-government/</guid>
+    <description>
+        &lt;p&gt;I’ve had the fortune of working across very different sectors : Big Tech, a super early-stage startup, the state government (alongside the Chief Secretary), and a &lt;a href=&#34;https://www.ruchilsharma.com/posts/a-course-on-venture-capital-copy/&#34;&gt;VC fund&lt;/a&gt;. Each experience was very different in its own way. I chose to iterate fast early in my career and then converge on the one thing I’ve spent the longest doing: building products.&lt;/p&gt;
+&lt;p&gt;That said, here are a few observations from each of these worlds.&lt;/p&gt;
+&lt;h2 id=&#34;big-tech&#34;&gt;
+    &lt;a href=&#34;#big-tech&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;strong&gt;Big Tech&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;p&gt;From the outside, working at Big Tech often look may look easy but it isn’t, especially in a post-AI world. One thing that Big Tech undeniably has is PMF, which is arguably the hardest problem to solve in a zero-to-one journey. There’s no definitive checklist to know when you’ve found PMF. You just know. Before that, you’re usually lying to yourself. PMF feels like you’re &lt;a href=&#34;https://www.firstround.com/levels#:~:text=You%E2%80%99re%20chasing%20%E2%80%94%20not%20pushing%20%E2%80%94%20a%20boulder.&#34;&gt;chasing a rolling boulder, not pushing one uphill&lt;/a&gt;. I first heard this analogy during my YC days at &lt;a href=&#34;https://techcrunch.com/2022/05/18/questbook-raises-8-3-million-to-help-web3-developers-secure-funds/&#34;&gt;Questbook&lt;/a&gt;, and it immediately resonated.&lt;/p&gt;
+&lt;p&gt;Because Big Tech has PMF, most roles are about accelerating it. Growing users sustainably, optimising costs, or increasing brand awareness. The existential question of does anyone even need this product? doesn’t arise for a long time until something tectonic such as AI forces you to rethink everything from first principles.&lt;/p&gt;
+&lt;p&gt;The biggest challenge in Big Tech is speed of execution at scale. You’re far from the ship now, fix later mindset. And rightly so. Even a  trivial change such as enabling a self-serve name change field can have legal implications worth millions of dollars (will stop at this).&lt;/p&gt;
+&lt;p&gt;Between 2012 and 2022, Big Tech was arguably the golden era for those optimising for work–life balance. Interestingly, that dynamic is shifting. Today, at least where I work, it genuinely feels like a startup with massive impact at stake. These companies also maintain high talent density by enforcing steep entry barriers.  Earlier, I wouldn’t have recommended Big Tech to someone at the start of their career. Over the last year, my opinion has changed, though it still heavily depends on the company and the team.&lt;/p&gt;
+&lt;h2 id=&#34;early-stage-startups&#34;&gt;
+    &lt;a href=&#34;#early-stage-startups&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;strong&gt;Early Stage Startups&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;p&gt;In my last role, I was the first employee and saw the team grow from four to fifty, which still feels massive, over two years . I’m ready to die on this hill: the sole job of a startup is to find PMF.&lt;/p&gt;
+&lt;p&gt;Until PMF exists, every dollar spent on Diwali celebrations or team outings is better spent on customer visits and problem discovery. In the absence of PMF, you’ll often see excessive marketing, event participation, office politics and more. Once PMF hits, it feels like the boulder is rolling and you’re sprinting behind it with limited resources. Startups give you the chance to ship faster, learn faster, and accelerate your career but don’t lie to yourself about growth. If the startup isn’t growing, neither are you. And  if you’re putting in as much (or more) effort than the founders, you might as well start something yourself.&lt;/p&gt;
+&lt;p&gt;One real downside of early-stage startups is that talent density isn’t guaranteed. You might end up working with people who haven’t proven themselves anywhere and are there simply because they know the founder. Be extremely cautious about company values and be prepared to live with them. It’s easy to post about integrity and trust on LinkedIn or talk about them on podcasts. Walking the talk is far harder. I’ve seen startups that do the former while completely failing at the latter.&lt;/p&gt;
+&lt;h2 id=&#34;government&#34;&gt;
+    &lt;a href=&#34;#government&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;strong&gt;Government&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;p&gt;This path is perhaps the most unconventional. especially if you’re not a government officer. During my stint, I consulted the Special Chief Secretary of the State on higher and school education initiatives. While I learned a great deal about how state governments function, my biggest takeaway was incentive alignment.&lt;/p&gt;
+&lt;p&gt;The government’s primary incentive is to stay in power, with elections every five years. But the government employees operate under very different incentives. They’re rarely fired or promoted early. As a result, many state/central initiatives are backloaded toward the final years of a term to showcase impact.&lt;/p&gt;
+&lt;p&gt;The government is arguably the most complex living organism after the human brain. Bureaucracy, multiple layers, and weak incentives make execution really slow. Unless incentive structures change meaningfully, it’s hard to see things improving dramatically. From an individual perspective, working with the government offers a rare opportunity to create grassroot impact. Just be prepared to fight deep-rooted inertia every single day.&lt;/p&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Bullish on HYPE and ZEC. Cautiously Optimistic on PUMP</title>
     <link>/posts/2025-6-zec-and-hype-for-the-long-run-pump-short-term/</link>
