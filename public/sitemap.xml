@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/2026---1---2026-goals/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ai/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/2026---1---early-agi/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/notes/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/notes/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/career/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/career/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/2026---1---narrative-capitalism/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/notes/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/notes/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/2026---1---big-tech-vs-little-tech-vs-government/</loc>
@@ -58,12 +70,6 @@
   </url><url>
     <loc>/posts/the-slow-death-of-trust/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/ai/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/is-chatgpt-the-new-twitter/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
@@ -248,7 +254,7 @@
     <loc>/categories/deep-dives/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/deep-dives---maker-dao-copy/</loc>
+    <loc>/posts/deep-dives---maker-dao/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/deep-dives---spotify/</loc>
@@ -299,7 +305,7 @@
     <loc>/posts/strong-opinions-loosely-held---2021/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/a-course-on-venture-capital-copy/</loc>
+    <loc>/posts/a-course-on-venture-capital/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/habit-stacking-tools/</loc>
@@ -347,7 +353,7 @@
     <loc>/posts/seek-to-understand-before-trying-to-be-understood/</loc>
     <lastmod>2020-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/thinking-in-pomodoros-copy/</loc>
+    <loc>/posts/thinking-in-pomodoros/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/differeniating-yourself-through-social-media/</loc>
