@@ -5,7 +5,100 @@
     <description>Recent content on Ruchil Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Back to Atoms</title>
+    <link>/posts/2026----3---back-to-atoms/</link>
+    <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/2026----3---back-to-atoms/</guid>
+    <description>
+        &lt;p&gt;I’ve been thinking quite a bit about what a post-AGI world might look like, for myself. A lot of software will be commoditised, if not already. If your entire business is just shipping bits, especially B2B, the pressure is starting to show up. We might not be that far away from a World where most code is written by AI. Travis Kalanick,  one of my favorite founders, also spoke about something similar in a recent TBPN interview. I’ve intentionally tried to keep my professional &lt;a href=&#34;https://paulgraham.com/identity.html&#34;&gt;identity small&lt;/a&gt; since my college graduation and have been thinking about what I might want to build or spend time on next.&lt;/p&gt;
+&lt;p&gt;Lately, I’ve been reading a lot about solar and helping my dad explore venturing into a business in that direction. On the side, I’m also curious about experimenting with a few other things,  especially D2C businesses and fitness/football coaching.&lt;/p&gt;
+&lt;p&gt;It’s still very early. But one thing that keeps crossing my mind is as we move closer to AGI, the offline world will become even more interesting. A lot of the online World we rely on today didn’t even exist 25 years ago. Our contributions to that World may not be required in about three to five years from now.&lt;/p&gt;
+&lt;p&gt;Rather than anchoring too strongly to a single professional identity, it may be more useful to think about areas at the intersection of everything offline, existing/new demand and what excites you.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Complexities of Marketplace Businesses</title>
+    <link>/posts/2026---3---complexities-of-marketplace-businesses/</link>
+    <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+    
+    <guid>/posts/2026---3---complexities-of-marketplace-businesses/</guid>
+    <description>
+        &lt;p&gt;I’ve spent a little under three years working at marketplace businesses in my career (Blinkit and UbeEats). Without going into too much details for obvious reasons, I’ve scribbled a few dimensions that add immense complexity to them (with 3P models being significantly more complex). Each of these areas is deep enough to require a PhD of its own. Each area is run as a dedicated charter within startups and big tech.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Scaling the Supply Side&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geographic bootstrapping&lt;/li&gt;
+&lt;li&gt;Merchant type (SMB, ENT, etc.)&lt;/li&gt;
+&lt;li&gt;Supply depth&lt;/li&gt;
+&lt;li&gt;Incentives&lt;/li&gt;
+&lt;li&gt;Onboarding velocity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Selection&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SKU breadth&lt;/li&gt;
+&lt;li&gt;Inventory depth&lt;/li&gt;
+&lt;li&gt;Curation&lt;/li&gt;
+&lt;li&gt;PT tagging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Demand Gen&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discounts&lt;/li&gt;
+&lt;li&gt;Promotions&lt;/li&gt;
+&lt;li&gt;Loyalty programs&lt;/li&gt;
+&lt;li&gt;Discovery surfaces&lt;/li&gt;
+&lt;li&gt;Habit loops&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Trust and Safety&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviews&lt;/li&gt;
+&lt;li&gt;Ratings&lt;/li&gt;
+&lt;li&gt;Identity verification&lt;/li&gt;
+&lt;li&gt;Fraud detection&lt;/li&gt;
+&lt;li&gt;Dispute resolution&lt;/li&gt;
+&lt;li&gt;Platform policy enforcement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Signalling Quality&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fresh&lt;/li&gt;
+&lt;li&gt;Hot food&lt;/li&gt;
+&lt;li&gt;Reliable delivery times&lt;/li&gt;
+&lt;li&gt;Courier availability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Pricing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Product price&lt;/li&gt;
+&lt;li&gt;Delivery fees&lt;/li&gt;
+&lt;li&gt;Platform fees&lt;/li&gt;
+&lt;li&gt;Surge fees&lt;/li&gt;
+&lt;li&gt;Promotions and discounts&lt;/li&gt;
+&lt;li&gt;Courier incentives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;7. Marketplace Leakage&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Primarily post order refunds and misc payouts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;8. Regulatory Nuances&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Labor classification&lt;/li&gt;
+&lt;li&gt;Consumer protection&lt;/li&gt;
+&lt;li&gt;Taxes&lt;/li&gt;
+&lt;li&gt;Platform liability&lt;/li&gt;
+&lt;li&gt;Data governance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;9. Margin Compression and Unit Economics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consumer affordability&lt;/li&gt;
+&lt;li&gt;Merchant margins&lt;/li&gt;
+&lt;li&gt;Courier earnings&lt;/li&gt;
+&lt;/ul&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>2026 Goals </title>
     <link>/posts/2026---1---2026-goals/</link>

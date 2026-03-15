@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Ruchil Sharma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>/tags/notes/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industry Insights</title>
+      <link>/tags/industry-insights/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/tags/industry-insights/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>/tags/ai/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>/tags/notes/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/notes/</guid>
       <description></description>
     </item>
     <item>
@@ -125,13 +132,6 @@
       <link>/tags/reading/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/tags/reading/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Industry Insights</title>
-      <link>/tags/industry-insights/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/industry-insights/</guid>
       <description></description>
     </item>
     <item>
